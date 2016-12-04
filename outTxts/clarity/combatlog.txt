@@ -1,0 +1,4004 @@
+02:05:03.520 [main] INFO  java.lang.Package - [00:02:40.405] npc_dota_hero_vengefulspirit buys item item_branches
+02:05:03.522 [main] INFO  java.lang.Package - [00:02:40.505] npc_dota_hero_vengefulspirit buys item item_branches
+02:05:03.526 [main] INFO  java.lang.Package - [00:02:41.438] npc_dota_hero_medusa buys item item_enchanted_mango
+02:05:03.535 [main] INFO  java.lang.Package - [00:02:44.839] npc_dota_hero_necrolyte buys item item_branches
+02:05:03.658 [main] INFO  java.lang.Package - [00:02:51.607] npc_dota_hero_shredder buys item item_stout_shield
+02:05:03.658 [main] INFO  java.lang.Package - [00:02:52.207] npc_dota_hero_shredder buys item item_tango
+02:05:03.659 [main] INFO  java.lang.Package - [00:02:53.108] npc_dota_hero_shredder buys item item_flask
+02:05:03.659 [main] INFO  java.lang.Package - [00:02:53.341] npc_dota_hero_zuus buys item item_ward_observer
+02:05:03.660 [main] INFO  java.lang.Package - [00:02:53.541] npc_dota_hero_zuus buys item item_ward_observer
+02:05:03.660 [main] INFO  java.lang.Package - [00:02:53.708] npc_dota_hero_shredder buys item item_clarity
+02:05:03.666 [main] INFO  java.lang.Package - [00:02:54.675] npc_dota_hero_shredder buys item item_branches
+02:05:03.666 [main] INFO  java.lang.Package - [00:02:55.108] npc_dota_hero_shredder buys item item_branches
+02:05:03.668 [main] INFO  java.lang.Package - [00:02:58.809] npc_dota_hero_skywrath_mage buys item item_ward_observer
+02:05:03.668 [main] INFO  java.lang.Package - [00:02:59.175] npc_dota_hero_zuus buys item item_tango
+02:05:03.669 [main] INFO  java.lang.Package - [00:02:59.976] npc_dota_hero_zuus buys item item_clarity
+02:05:03.669 [main] INFO  java.lang.Package - [00:03:00.176] npc_dota_hero_zuus buys item item_clarity
+02:05:03.669 [main] INFO  java.lang.Package - [00:03:00.409] npc_dota_hero_skywrath_mage buys item item_tango
+02:05:03.670 [main] INFO  java.lang.Package - [00:03:01.076] npc_dota_hero_skywrath_mage buys item item_enchanted_mango
+02:05:03.670 [main] INFO  java.lang.Package - [00:03:01.209] npc_dota_hero_skywrath_mage buys item item_enchanted_mango
+02:05:03.670 [main] INFO  java.lang.Package - [00:03:01.243] npc_dota_hero_zuus buys item item_branches
+02:05:03.674 [main] INFO  java.lang.Package - [00:03:01.609] npc_dota_hero_necrolyte buys item item_faerie_fire
+02:05:03.675 [main] INFO  java.lang.Package - [00:03:01.943] npc_dota_hero_skywrath_mage buys item item_faerie_fire
+02:05:03.675 [main] INFO  java.lang.Package - [00:03:02.510] npc_dota_hero_necrolyte buys item item_faerie_fire
+02:05:03.676 [main] INFO  java.lang.Package - [00:03:03.977] npc_dota_hero_zuus buys item item_boots
+02:05:03.677 [main] INFO  java.lang.Package - [00:03:04.243] npc_dota_hero_skywrath_mage buys item item_branches
+02:05:03.678 [main] INFO  java.lang.Package - [00:03:07.177] npc_dota_hero_invoker buys item item_blades_of_attack
+02:05:03.679 [main] INFO  java.lang.Package - [00:03:08.944] npc_dota_hero_invoker buys item item_faerie_fire
+02:05:03.680 [main] INFO  java.lang.Package - [00:03:09.178] npc_dota_hero_invoker buys item item_faerie_fire
+02:05:03.680 [main] INFO  java.lang.Package - [00:03:09.611] npc_dota_hero_necrolyte buys item item_clarity
+02:05:03.693 [main] INFO  java.lang.Package - [00:03:11.111] npc_dota_hero_invoker buys item item_branches
+02:05:03.695 [main] INFO  java.lang.Package - [00:03:13.245] npc_dota_hero_necrolyte buys item item_circlet
+02:05:03.698 [main] INFO  java.lang.Package - [00:03:18.380] npc_dota_hero_drow_ranger buys item item_circlet
+02:05:03.699 [main] INFO  java.lang.Package - [00:03:18.413] npc_dota_hero_drow_ranger buys item item_slippers
+02:05:03.699 [main] INFO  java.lang.Package - [00:03:18.413] npc_dota_hero_drow_ranger buys item item_wraith_band
+02:05:03.699 [main] INFO  java.lang.Package - [00:03:18.413] npc_dota_hero_drow_ranger buys item item_recipe_wraith_band
+02:05:03.700 [main] INFO  java.lang.Package - [00:03:19.446] npc_dota_hero_drow_ranger buys item item_tango
+02:06:42.082 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 0
+damage_source_name: 0
+value: 9
+timestamp: 211.18282
+stun_duration: 0.0
+slow_duration: 0.0
+timestamp_raw: 299.33334
+last_hits: 0
+obs_wards_placed: 1
+networth: 475
+
+
+02:06:42.863 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 0
+attacker_name: 0
+damage_source_name: 0
+value: 31
+timestamp: 216.55063
+stun_duration: 0.0
+slow_duration: 0.0
+timestamp_raw: 304.7
+last_hits: 0
+obs_wards_placed: 1
+networth: 690
+
+
+02:06:42.869 [main] INFO  java.lang.Package - [00:03:40.884] game state is now 5
+02:06:43.739 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 0
+attacker_name: 0
+damage_source_name: 0
+value: 27
+timestamp: 222.85197
+stun_duration: 3172.2039
+slow_duration: 0.0
+timestamp_raw: 311.00003
+last_hits: 0
+obs_wards_placed: 1
+networth: 712
+
+
+02:06:45.500 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 0
+attacker_name: 0
+damage_source_name: 0
+value: 31
+timestamp: 231.42047
+stun_duration: 102.50974
+slow_duration: 0.0
+timestamp_raw: 319.56668
+last_hits: 0
+obs_wards_placed: 2
+networth: 708
+
+
+02:06:45.728 [main] INFO  java.lang.Package - [00:04:35.487] npc_dota_hero_skywrath_mage buys item item_magic_stick
+02:06:45.739 [main] INFO  java.lang.Package - [00:04:43.485] npc_dota_hero_drow_ranger buys item item_ring_of_protection
+02:06:45.940 [main] INFO  java.lang.Package - [00:05:29.907] npc_dota_hero_invoker buys item item_tango
+02:06:45.967 [main] INFO  java.lang.Package - [00:05:52.268] npc_dota_hero_kunkka buys item item_bottle
+02:06:46.053 [main] INFO  java.lang.Package - [00:06:39.957] npc_dota_hero_drow_ranger buys item item_ring_of_basilius
+02:06:46.053 [main] INFO  java.lang.Package - [00:06:39.957] npc_dota_hero_drow_ranger buys item item_ring_of_aquila
+02:06:46.053 [main] INFO  java.lang.Package - [00:06:39.957] npc_dota_hero_drow_ranger buys item item_sobi_mask
+02:06:46.083 [main] INFO  java.lang.Package - [00:07:09.150] npc_dota_hero_medusa buys item item_boots
+02:06:46.084 [main] INFO  java.lang.Package - [00:07:10.916] npc_dota_hero_necrolyte buys item item_boots
+02:06:46.140 [main] INFO  java.lang.Package - [00:07:36.710] npc_dota_hero_shredder buys item item_energy_booster
+02:06:46.155 [main] INFO  java.lang.Package - [00:07:53.139] npc_dota_hero_kunkka buys item item_boots
+02:06:46.158 [main] INFO  java.lang.Package - [00:07:57.005] npc_dota_hero_kunkka buys item item_tpscroll
+02:06:46.163 [main] INFO  java.lang.Package - [00:08:02.537] npc_dota_hero_medusa buys item item_ring_of_basilius
+02:06:46.163 [main] INFO  java.lang.Package - [00:08:02.537] npc_dota_hero_medusa buys item item_sobi_mask
+02:06:46.169 [main] INFO  java.lang.Package - [00:08:03.570] npc_dota_hero_vengefulspirit buys item item_flying_courier
+02:06:46.255 [main] INFO  java.lang.Package - [00:08:29.763] npc_dota_hero_invoker buys item item_sobi_mask
+02:06:46.256 [main] INFO  java.lang.Package - [00:08:30.430] npc_dota_hero_invoker buys item item_ring_of_basilius
+02:06:46.256 [main] INFO  java.lang.Package - [00:08:30.430] npc_dota_hero_invoker buys item item_ring_of_protection
+02:06:46.257 [main] INFO  java.lang.Package - [00:08:30.830] npc_dota_hero_invoker buys item item_recipe_wraith_band
+02:06:47.400 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 0
+value: 9
+timestamp: 518.595
+stun_duration: 100.16456
+slow_duration: 198.91835
+timestamp_raw: 709.7334
+last_hits: 0
+obs_wards_placed: 1
+networth: 353
+
+
+02:06:48.007 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 1
+attacker_name: 0
+damage_source_name: 0
+value: 7
+timestamp: 518.595
+stun_duration: 148.53377
+slow_duration: 196.70143
+timestamp_raw: 709.7334
+last_hits: 6
+obs_wards_placed: 0
+networth: 1012
+
+
+02:06:48.481 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 0
+attacker_name: 0
+damage_source_name: 1
+value: 28
+timestamp: 518.595
+stun_duration: 216.0491
+slow_duration: 205.77065
+timestamp_raw: 709.7334
+last_hits: 15
+obs_wards_placed: 0
+networth: 1647
+
+
+02:06:48.902 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_FIRST_BLOOD (18): type: DOTA_COMBATLOG_FIRST_BLOOD
+timestamp: 518.595
+attacker_team: 2
+assist_players: 1
+assist_players: 4
+
+
+02:06:48.910 [main] INFO  java.lang.Package - [00:08:47.226] npc_dota_hero_vengefulspirit buys item item_tpscroll
+02:06:49.620 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 0
+value: 1
+timestamp: 528.2926
+stun_duration: 277.7419
+slow_duration: 175.07693
+timestamp_raw: 719.43335
+last_hits: 21
+obs_wards_placed: 0
+networth: 1784
+
+
+02:06:50.239 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 2
+attacker_name: 0
+damage_source_name: 0
+value: 7
+timestamp: 528.2926
+stun_duration: 235.97327
+slow_duration: 230.7034
+timestamp_raw: 719.43335
+last_hits: 7
+obs_wards_placed: 0
+networth: 1484
+
+
+02:06:51.063 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_MULTIKILL (15): type: DOTA_COMBATLOG_MULTIKILL
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 2
+timestamp: 528.2926
+
+
+02:06:51.696 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 0
+attacker_name: 0
+damage_source_name: 2
+value: 28
+timestamp: 528.2926
+stun_duration: 234.21664
+slow_duration: 239.48651
+timestamp_raw: 719.43335
+last_hits: 16
+obs_wards_placed: 0
+networth: 1775
+
+
+02:06:51.697 [main] INFO  java.lang.Package - [00:08:48.292] npc_dota_hero_morphling buys item item_magic_stick
+02:06:51.697 [main] INFO  java.lang.Package - [00:08:48.492] npc_dota_hero_morphling buys item item_circlet
+02:06:51.697 [main] INFO  java.lang.Package - [00:08:48.659] npc_dota_hero_morphling buys item item_recipe_wraith_band
+02:06:51.697 [main] INFO  java.lang.Package - [00:08:48.825] npc_dota_hero_morphling buys item item_sobi_mask
+02:06:51.698 [main] INFO  java.lang.Package - [00:08:48.992] npc_dota_hero_morphling buys item item_ring_of_basilius
+02:06:51.698 [main] INFO  java.lang.Package - [00:08:48.992] npc_dota_hero_morphling buys item item_ring_of_protection
+02:06:51.701 [main] INFO  java.lang.Package - [00:08:50.325] npc_dota_hero_morphling buys item item_wraith_band
+02:06:51.701 [main] INFO  java.lang.Package - [00:08:50.325] npc_dota_hero_morphling buys item item_magic_wand
+02:06:51.701 [main] INFO  java.lang.Package - [00:08:50.325] npc_dota_hero_morphling buys item item_ring_of_aquila
+02:06:51.706 [main] INFO  java.lang.Package - [00:08:58.356] npc_dota_hero_morphling buys item item_tpscroll
+02:06:51.707 [main] INFO  java.lang.Package - [00:08:59.656] npc_dota_hero_necrolyte buys item item_arcane_boots
+02:06:51.708 [main] INFO  java.lang.Package - [00:08:59.656] npc_dota_hero_necrolyte buys item item_energy_booster
+02:06:51.709 [main] INFO  java.lang.Package - [00:09:01.289] npc_dota_hero_shredder buys item item_arcane_boots
+02:06:51.709 [main] INFO  java.lang.Package - [00:09:01.289] npc_dota_hero_shredder buys item item_boots
+02:06:51.711 [main] INFO  java.lang.Package - [00:09:04.322] npc_dota_hero_zuus buys item item_flying_courier
+02:06:51.713 [main] INFO  java.lang.Package - [00:09:07.721] npc_dota_hero_necrolyte buys item item_tpscroll
+02:06:51.726 [main] INFO  java.lang.Package - [00:09:24.883] npc_dota_hero_skywrath_mage buys item item_boots
+02:06:51.730 [main] INFO  java.lang.Package - [00:09:29.982] npc_dota_hero_invoker buys item item_circlet
+02:06:52.267 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 2
+attacker_name: 1
+damage_source_name: 0
+value: 7
+timestamp: 570.7489
+stun_duration: 272.84885
+slow_duration: 233.91945
+timestamp_raw: 761.9
+last_hits: 7
+obs_wards_placed: 0
+networth: 1752
+
+
+02:06:52.700 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 1
+attacker_name: 1
+damage_source_name: 0
+value: 1
+timestamp: 570.7489
+stun_duration: 263.07364
+slow_duration: 165.14987
+timestamp_raw: 761.9
+last_hits: 22
+obs_wards_placed: 0
+networth: 1845
+
+
+02:06:53.140 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 1
+value: 9
+timestamp: 570.7489
+stun_duration: 100.1532
+slow_duration: 180.58444
+timestamp_raw: 761.9
+last_hits: 0
+obs_wards_placed: 1
+networth: 390
+
+
+02:06:53.639 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 0
+damage_source_name: 1
+value: 5
+timestamp: 570.7489
+stun_duration: 221.4003
+slow_duration: 188.13023
+timestamp_raw: 761.9
+last_hits: 18
+obs_wards_placed: 0
+networth: 1791
+
+
+02:06:54.106 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 2
+damage_source_name: 1
+value: 9
+timestamp: 572.51514
+stun_duration: 134.45943
+slow_duration: 211.92715
+timestamp_raw: 763.7
+last_hits: 0
+obs_wards_placed: 1
+networth: 475
+
+
+02:06:54.553 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 1
+attacker_name: 0
+damage_source_name: 2
+value: 28
+timestamp: 572.51514
+stun_duration: 234.96272
+slow_duration: 232.74448
+timestamp_raw: 763.7
+last_hits: 16
+obs_wards_placed: 0
+networth: 1842
+
+
+02:06:55.006 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 2
+attacker_name: 1
+damage_source_name: 1
+value: 7
+timestamp: 572.51514
+stun_duration: 271.99026
+slow_duration: 232.74448
+timestamp_raw: 763.7
+last_hits: 7
+obs_wards_placed: 0
+networth: 1755
+
+
+02:06:55.007 [main] INFO  java.lang.Package - [00:09:33.614] npc_dota_hero_morphling buys item item_boots
+02:06:55.012 [main] INFO  java.lang.Package - [00:09:38.113] npc_dota_hero_invoker buys item item_wraith_band
+02:06:55.012 [main] INFO  java.lang.Package - [00:09:38.113] npc_dota_hero_invoker buys item item_ring_of_aquila
+02:06:55.012 [main] INFO  java.lang.Package - [00:09:38.113] npc_dota_hero_invoker buys item item_slippers
+02:06:55.012 [main] INFO  java.lang.Package - [00:09:38.680] npc_dota_hero_vengefulspirit buys item item_tpscroll
+02:06:55.013 [main] INFO  java.lang.Package - [00:09:40.413] npc_dota_hero_zuus buys item item_ward_observer
+02:06:55.014 [main] INFO  java.lang.Package - [00:09:40.646] npc_dota_hero_zuus buys item item_ward_observer
+02:06:55.453 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 0
+value: 27
+timestamp: 595.94275
+stun_duration: 136.29898
+slow_duration: 175.49292
+timestamp_raw: 787.10004
+last_hits: 3
+obs_wards_placed: 1
+networth: 1026
+
+
+02:06:55.886 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 1
+attacker_name: 0
+damage_source_name: 0
+value: 6
+timestamp: 595.94275
+stun_duration: 179.17236
+slow_duration: 206.36816
+timestamp_raw: 787.10004
+last_hits: 13
+obs_wards_placed: 0
+networth: 1495
+
+
+02:06:55.890 [main] INFO  java.lang.Package - [00:10:00.808] npc_dota_hero_necrolyte buys item item_magic_stick
+02:06:55.892 [main] INFO  java.lang.Package - [00:10:04.474] npc_dota_hero_necrolyte buys item item_branches
+02:06:55.895 [main] INFO  java.lang.Package - [00:10:09.172] npc_dota_hero_necrolyte buys item item_magic_wand
+02:06:55.895 [main] INFO  java.lang.Package - [00:10:09.172] npc_dota_hero_necrolyte buys item item_branches
+02:06:55.896 [main] INFO  java.lang.Package - [00:10:11.838] npc_dota_hero_skywrath_mage buys item item_tpscroll
+02:06:55.904 [main] INFO  java.lang.Package - [00:10:21.569] npc_dota_hero_morphling buys item item_tpscroll
+02:06:56.343 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 0
+attacker_name: 0
+damage_source_name: 0
+value: 31
+timestamp: 621.9697
+stun_duration: 138.6739
+slow_duration: 171.88383
+timestamp_raw: 813.1667
+last_hits: 5
+obs_wards_placed: 3
+networth: 1287
+
+
+02:06:56.345 [main] INFO  java.lang.Package - [00:10:25.069] npc_dota_hero_shredder buys item item_recipe_soul_ring
+02:06:56.368 [main] INFO  java.lang.Package - [00:10:32.567] npc_dota_hero_medusa buys item item_blades_of_attack
+02:06:56.368 [main] INFO  java.lang.Package - [00:10:32.600] npc_dota_hero_medusa buys item item_phase_boots
+02:06:56.369 [main] INFO  java.lang.Package - [00:10:32.600] npc_dota_hero_medusa buys item item_blades_of_attack
+02:06:56.373 [main] INFO  java.lang.Package - [00:10:37.599] npc_dota_hero_zuus buys item item_bottle
+02:06:56.380 [main] INFO  java.lang.Package - [00:10:44.630] npc_dota_hero_shredder buys item item_tpscroll
+02:06:56.389 [main] INFO  java.lang.Package - [00:10:53.362] npc_dota_hero_kunkka buys item item_gloves
+02:06:56.389 [main] INFO  java.lang.Package - [00:10:53.395] npc_dota_hero_kunkka buys item item_belt_of_strength
+02:06:56.396 [main] INFO  java.lang.Package - [00:11:00.793] npc_dota_hero_shredder buys item item_ring_of_regen
+02:06:56.862 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 1
+attacker_name: 1
+damage_source_name: 1
+value: 1
+timestamp: 672.52405
+stun_duration: 289.2132
+slow_duration: 176.68973
+timestamp_raw: 863.7001
+last_hits: 27
+obs_wards_placed: 0
+networth: 2438
+
+
+02:06:57.343 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 2
+damage_source_name: 2
+value: 9
+timestamp: 672.52405
+stun_duration: 126.73834
+slow_duration: 182.66795
+timestamp_raw: 863.7001
+last_hits: 0
+obs_wards_placed: 1
+networth: 641
+
+
+02:06:57.741 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 1
+attacker_name: 2
+damage_source_name: 1
+value: 1
+timestamp: 675.02344
+stun_duration: 318.66925
+slow_duration: 199.36647
+timestamp_raw: 866.2001
+last_hits: 27
+obs_wards_placed: 0
+networth: 2524
+
+
+02:06:58.154 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 3
+attacker_name: 1
+damage_source_name: 1
+value: 7
+timestamp: 675.02344
+stun_duration: 265.4256
+slow_duration: 248.51447
+timestamp_raw: 866.2001
+last_hits: 13
+obs_wards_placed: 0
+networth: 2120
+
+
+02:06:58.157 [main] INFO  java.lang.Package - [00:11:18.222] npc_dota_hero_vengefulspirit buys item item_boots
+02:06:58.157 [main] INFO  java.lang.Package - [00:11:19.389] npc_dota_hero_kunkka buys item item_power_treads
+02:06:58.160 [main] INFO  java.lang.Package - [00:11:21.621] npc_dota_hero_drow_ranger buys item item_lifesteal
+02:06:58.161 [main] INFO  java.lang.Package - [00:11:22.854] npc_dota_hero_morphling buys item item_tpscroll
+02:06:58.163 [main] INFO  java.lang.Package - [00:11:26.054] npc_dota_hero_drow_ranger buys item item_tpscroll
+02:06:58.210 [main] INFO  java.lang.Package - [00:11:35.651] npc_dota_hero_necrolyte buys item item_tpscroll
+02:06:58.212 [main] INFO  java.lang.Package - [00:11:37.584] npc_dota_hero_shredder buys item item_tpscroll
+02:06:58.212 [main] INFO  java.lang.Package - [00:11:37.717] npc_dota_hero_shredder buys item item_tpscroll
+02:06:58.510 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 0
+value: 31
+timestamp: 703.0166
+stun_duration: 148.5901
+slow_duration: 172.60844
+timestamp_raw: 894.2001
+last_hits: 9
+obs_wards_placed: 3
+networth: 1435
+
+
+02:06:58.981 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 9
+target_source_name: 1
+attacker_name: 0
+damage_source_name: 0
+value: 29
+timestamp: 703.0166
+stun_duration: 218.03172
+slow_duration: 430.7122
+timestamp_raw: 894.2001
+last_hits: 23
+obs_wards_placed: 0
+networth: 2102
+
+
+02:06:59.438 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 1
+value: 5
+timestamp: 704.3496
+stun_duration: 212.09409
+slow_duration: 191.24457
+timestamp_raw: 895.5334
+last_hits: 22
+obs_wards_placed: 0
+networth: 2060
+
+
+02:06:59.854 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 2
+attacker_name: 0
+damage_source_name: 0
+value: 6
+timestamp: 704.3496
+stun_duration: 234.55695
+slow_duration: 303.06247
+timestamp_raw: 895.5334
+last_hits: 22
+obs_wards_placed: 0
+networth: 2265
+
+
+02:06:59.857 [main] INFO  java.lang.Package - [00:11:48.115] npc_dota_hero_invoker buys item item_boots
+02:06:59.857 [main] INFO  java.lang.Package - [00:11:48.415] npc_dota_hero_invoker buys item item_blades_of_attack
+02:06:59.858 [main] INFO  java.lang.Package - [00:11:49.448] npc_dota_hero_invoker buys item item_tpscroll
+02:06:59.863 [main] INFO  java.lang.Package - [00:11:56.380] npc_dota_hero_vengefulspirit buys item item_tpscroll
+02:06:59.865 [main] INFO  java.lang.Package - [00:11:58.479] npc_dota_hero_vengefulspirit buys item item_ward_observer
+02:06:59.865 [main] INFO  java.lang.Package - [00:11:58.612] npc_dota_hero_vengefulspirit buys item item_ward_observer
+02:06:59.868 [main] INFO  java.lang.Package - [00:12:03.644] npc_dota_hero_zuus buys item item_tpscroll
+02:06:59.871 [main] INFO  java.lang.Package - [00:12:07.310] npc_dota_hero_zuus buys item item_ward_observer
+02:06:59.873 [main] INFO  java.lang.Package - [00:12:08.777] npc_dota_hero_invoker buys item item_phase_boots
+02:07:00.306 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 1
+attacker_name: 2
+damage_source_name: 2
+value: 28
+timestamp: 738.90784
+stun_duration: 248.9079
+slow_duration: 240.45267
+timestamp_raw: 930.10004
+last_hits: 21
+obs_wards_placed: 0
+networth: 2229
+
+
+02:07:00.739 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 2
+attacker_name: 2
+damage_source_name: 1
+value: 1
+timestamp: 738.90784
+stun_duration: 291.76315
+slow_duration: 203.15703
+timestamp_raw: 930.10004
+last_hits: 27
+obs_wards_placed: 0
+networth: 2581
+
+
+02:07:01.155 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 2
+damage_source_name: 3
+value: 9
+timestamp: 738.90784
+stun_duration: 161.80751
+slow_duration: 182.54018
+timestamp_raw: 930.10004
+last_hits: 0
+obs_wards_placed: 1
+networth: 969
+
+
+02:07:01.617 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 0
+value: 4
+timestamp: 741.5405
+stun_duration: 295.01263
+slow_duration: 428.45978
+timestamp_raw: 932.7334
+last_hits: 36
+obs_wards_placed: 0
+networth: 2821
+
+
+02:07:02.025 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 9
+target_source_name: 2
+attacker_name: 0
+damage_source_name: 0
+value: 29
+timestamp: 741.5405
+stun_duration: 254.21793
+slow_duration: 443.90182
+timestamp_raw: 932.7334
+last_hits: 24
+obs_wards_placed: 0
+networth: 2556
+
+
+02:07:02.027 [main] INFO  java.lang.Package - [00:12:22.506] npc_dota_hero_medusa buys item item_circlet
+02:07:02.027 [main] INFO  java.lang.Package - [00:12:22.540] npc_dota_hero_medusa buys item item_slippers
+02:07:02.027 [main] INFO  java.lang.Package - [00:12:22.606] npc_dota_hero_medusa buys item item_wraith_band
+02:07:02.027 [main] INFO  java.lang.Package - [00:12:22.606] npc_dota_hero_medusa buys item item_recipe_wraith_band
+02:07:02.028 [main] INFO  java.lang.Package - [00:12:23.206] npc_dota_hero_medusa buys item item_tpscroll
+02:07:02.511 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 2
+attacker_name: 3
+damage_source_name: 1
+value: 1
+timestamp: 743.5067
+stun_duration: 325.24475
+slow_duration: 230.7596
+timestamp_raw: 934.7334
+last_hits: 27
+obs_wards_placed: 0
+networth: 2716
+
+
+02:07:02.921 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 4
+attacker_name: 1
+damage_source_name: 1
+value: 7
+timestamp: 743.5067
+stun_duration: 309.05713
+slow_duration: 296.88773
+timestamp_raw: 934.7334
+last_hits: 17
+obs_wards_placed: 0
+networth: 2803
+
+
+02:07:03.386 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 1
+attacker_name: 2
+damage_source_name: 3
+value: 28
+timestamp: 743.5067
+stun_duration: 247.63605
+slow_duration: 238.33678
+timestamp_raw: 934.7334
+last_hits: 21
+obs_wards_placed: 0
+networth: 2237
+
+
+02:07:03.390 [main] INFO  java.lang.Package - [00:12:28.105] npc_dota_hero_kunkka buys item item_magic_stick
+02:07:03.802 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 0
+value: 31
+timestamp: 761.30237
+stun_duration: 163.09613
+slow_duration: 179.52788
+timestamp_raw: 952.5334
+last_hits: 9
+obs_wards_placed: 4
+networth: 1595
+
+
+02:07:03.804 [main] INFO  java.lang.Package - [00:12:44.001] npc_dota_hero_skywrath_mage buys item item_tpscroll
+02:07:03.805 [main] INFO  java.lang.Package - [00:12:45.301] npc_dota_hero_morphling buys item item_ring_of_health
+02:07:03.806 [main] INFO  java.lang.Package - [00:12:46.901] npc_dota_hero_morphling buys item item_tpscroll
+02:07:03.807 [main] INFO  java.lang.Package - [00:12:47.267] npc_dota_hero_drow_ranger buys item item_tpscroll
+02:07:03.809 [main] INFO  java.lang.Package - [00:12:50.900] npc_dota_hero_medusa buys item item_ring_of_aquila
+02:07:03.816 [main] INFO  java.lang.Package - [00:12:58.898] npc_dota_hero_vengefulspirit buys item item_tpscroll
+02:07:03.825 [main] INFO  java.lang.Package - [00:13:06.096] npc_dota_hero_invoker buys item item_circlet
+02:07:03.825 [main] INFO  java.lang.Package - [00:13:06.129] npc_dota_hero_invoker buys item item_branches
+02:07:03.825 [main] INFO  java.lang.Package - [00:13:06.162] npc_dota_hero_invoker buys item item_magic_wand
+02:07:03.825 [main] INFO  java.lang.Package - [00:13:06.162] npc_dota_hero_invoker buys item item_magic_stick
+02:07:04.220 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 2
+damage_source_name: 1
+value: 5
+timestamp: 789.06226
+stun_duration: 221.65614
+slow_duration: 202.9648
+timestamp_raw: 980.2667
+last_hits: 28
+obs_wards_placed: 0
+networth: 2251
+
+
+02:07:04.631 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 3
+attacker_name: 0
+damage_source_name: 0
+value: 6
+timestamp: 789.06226
+stun_duration: 295.57672
+slow_duration: 372.98212
+timestamp_raw: 980.2667
+last_hits: 32
+obs_wards_placed: 0
+networth: 3174
+
+
+02:07:05.080 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 6
+target_source_name: 2
+attacker_name: 6
+value: 3
+timestamp: 789.06226
+
+
+02:07:05.083 [main] INFO  java.lang.Package - [00:13:13.394] npc_dota_hero_invoker buys item item_wind_lace
+02:07:05.084 [main] INFO  java.lang.Package - [00:13:14.161] npc_dota_hero_invoker buys item item_tpscroll
+02:07:05.088 [main] INFO  java.lang.Package - [00:13:21.525] npc_dota_hero_medusa buys item item_ring_of_health
+02:07:05.128 [main] INFO  java.lang.Package - [00:13:36.655] npc_dota_hero_necrolyte buys item item_chainmail
+02:07:05.128 [main] INFO  java.lang.Package - [00:13:36.688] npc_dota_hero_necrolyte buys item item_branches
+02:07:05.129 [main] INFO  java.lang.Package - [00:13:36.722] npc_dota_hero_necrolyte buys item item_buckler
+02:07:05.129 [main] INFO  java.lang.Package - [00:13:36.722] npc_dota_hero_necrolyte buys item item_recipe_buckler
+02:07:05.129 [main] INFO  java.lang.Package - [00:13:37.555] npc_dota_hero_necrolyte buys item item_ring_of_regen
+02:07:05.129 [main] INFO  java.lang.Package - [00:13:37.555] npc_dota_hero_necrolyte buys item item_branches
+02:07:05.130 [main] INFO  java.lang.Package - [00:13:37.588] npc_dota_hero_necrolyte buys item item_headdress
+02:07:05.130 [main] INFO  java.lang.Package - [00:13:37.588] npc_dota_hero_necrolyte buys item item_recipe_headdress
+02:09:40.228 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 53
+value: 1
+timestamp: 820.68787
+attacker_team: 2
+target_team: 3
+
+
+02:10:35.604 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 0
+value: 31
+timestamp: 822.25415
+stun_duration: 185.27718
+slow_duration: 179.29083
+timestamp_raw: 1013.50006
+last_hits: 12
+obs_wards_placed: 5
+networth: 1858
+
+
+02:10:42.698 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 2
+damage_source_name: 3
+value: 9
+timestamp: 824.62024
+stun_duration: 179.78076
+slow_duration: 201.44588
+timestamp_raw: 1015.8667
+last_hits: 1
+obs_wards_placed: 2
+networth: 1331
+
+
+02:10:45.604 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 0
+attacker_name: 2
+damage_source_name: 0
+value: 27
+timestamp: 854.27966
+stun_duration: 136.3131
+slow_duration: 196.93878
+timestamp_raw: 1045.5334
+last_hits: 7
+obs_wards_placed: 1
+networth: 1134
+
+
+02:10:47.399 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 5
+attacker_name: 1
+damage_source_name: 1
+value: 7
+timestamp: 854.27966
+stun_duration: 313.73798
+slow_duration: 272.43674
+timestamp_raw: 1045.5334
+last_hits: 17
+obs_wards_placed: 0
+networth: 3423
+
+
+02:10:48.774 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 3
+timestamp: 854.27966
+
+
+02:10:49.411 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 1
+value: 31
+timestamp: 854.27966
+stun_duration: 187.56075
+slow_duration: 185.38202
+timestamp_raw: 1045.5334
+last_hits: 12
+obs_wards_placed: 5
+networth: 1916
+
+
+02:10:49.414 [main] INFO  java.lang.Package - [00:14:16.812] npc_dota_hero_medusa buys item item_void_stone
+02:10:49.986 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 3
+damage_source_name: 3
+value: 9
+timestamp: 857.079
+stun_duration: 175.7011
+slow_duration: 193.2429
+timestamp_raw: 1048.3334
+last_hits: 1
+obs_wards_placed: 2
+networth: 1206
+
+
+02:10:50.541 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 1
+attacker_name: 1
+damage_source_name: 1
+value: 31
+timestamp: 857.079
+stun_duration: 191.26237
+slow_duration: 195.12912
+timestamp_raw: 1048.3334
+last_hits: 12
+obs_wards_placed: 5
+networth: 1964
+
+
+02:10:51.088 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 5
+attacker_name: 1
+damage_source_name: 2
+value: 7
+timestamp: 857.079
+stun_duration: 331.12537
+slow_duration: 281.80078
+timestamp_raw: 1048.3334
+last_hits: 17
+obs_wards_placed: 0
+networth: 3622
+
+
+02:10:51.663 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 1
+attacker_name: 2
+damage_source_name: 4
+value: 28
+timestamp: 857.079
+stun_duration: 277.5568
+slow_duration: 245.77405
+timestamp_raw: 1048.3334
+last_hits: 26
+obs_wards_placed: 0
+networth: 3023
+
+
+02:10:52.236 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 1
+value: 4
+timestamp: 857.079
+stun_duration: 285.38458
+slow_duration: 377.99783
+timestamp_raw: 1048.3334
+last_hits: 38
+obs_wards_placed: 0
+networth: 3237
+
+
+02:10:52.279 [main] INFO  java.lang.Package - [00:14:30.042] npc_dota_hero_vengefulspirit buys item item_tpscroll
+02:10:52.285 [main] INFO  java.lang.Package - [00:14:40.739] npc_dota_hero_zuus buys item item_arcane_boots
+02:10:52.285 [main] INFO  java.lang.Package - [00:14:40.739] npc_dota_hero_zuus buys item item_energy_booster
+02:10:52.807 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 2
+attacker_name: 4
+damage_source_name: 1
+value: 1
+timestamp: 883.6725
+stun_duration: 301.0014
+slow_duration: 217.89786
+timestamp_raw: 1074.9
+last_hits: 33
+obs_wards_placed: 0
+networth: 2979
+
+
+02:10:53.293 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 6
+attacker_name: 1
+damage_source_name: 2
+value: 7
+timestamp: 883.6725
+stun_duration: 332.95734
+slow_duration: 294.66452
+timestamp_raw: 1074.9
+last_hits: 19
+obs_wards_placed: 0
+networth: 3789
+
+
+02:10:54.079 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 4
+timestamp: 883.6725
+
+
+02:10:54.635 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 1
+attacker_name: 1
+damage_source_name: 2
+value: 31
+timestamp: 883.6725
+stun_duration: 209.38835
+slow_duration: 211.47046
+timestamp_raw: 1074.9
+last_hits: 12
+obs_wards_placed: 5
+networth: 2249
+
+
+02:10:55.143 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 1
+attacker_name: 2
+damage_source_name: 5
+value: 28
+timestamp: 883.6725
+stun_duration: 277.0118
+slow_duration: 246.5043
+timestamp_raw: 1074.9
+last_hits: 27
+obs_wards_placed: 0
+networth: 3140
+
+
+02:10:55.679 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 0
+attacker_name: 1
+damage_source_name: 2
+value: 4
+timestamp: 883.6725
+stun_duration: 301.45404
+slow_duration: 387.0018
+timestamp_raw: 1074.9
+last_hits: 43
+obs_wards_placed: 0
+networth: 3541
+
+
+02:10:55.681 [main] INFO  java.lang.Package - [00:14:44.805] npc_dota_hero_skywrath_mage buys item item_circlet
+02:10:55.681 [main] INFO  java.lang.Package - [00:14:44.805] npc_dota_hero_skywrath_mage buys item item_branches
+02:10:55.682 [main] INFO  java.lang.Package - [00:14:46.038] npc_dota_hero_morphling buys item item_tpscroll
+02:10:55.682 [main] INFO  java.lang.Package - [00:14:46.271] npc_dota_hero_medusa buys item item_pers
+02:10:55.685 [main] INFO  java.lang.Package - [00:14:48.338] npc_dota_hero_skywrath_mage buys item item_circlet
+02:10:55.685 [main] INFO  java.lang.Package - [00:14:48.704] npc_dota_hero_skywrath_mage buys item item_mantle
+02:10:55.686 [main] INFO  java.lang.Package - [00:14:50.237] npc_dota_hero_skywrath_mage buys item item_magic_wand
+02:10:55.692 [main] INFO  java.lang.Package - [00:14:57.935] npc_dota_hero_morphling buys item item_tpscroll
+02:10:55.693 [main] INFO  java.lang.Package - [00:14:58.335] npc_dota_hero_zuus buys item item_ward_observer
+02:10:55.694 [main] INFO  java.lang.Package - [00:14:59.202] npc_dota_hero_zuus buys item item_tome_of_knowledge
+02:11:41.864 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 56
+value: 1
+timestamp: 901.3015
+attacker_team: 2
+target_team: 3
+
+
+02:11:41.867 [main] INFO  java.lang.Package - [00:15:03.700] npc_dota_hero_drow_ranger buys item item_belt_of_strength
+02:11:43.988 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 3
+damage_source_name: 3
+value: 9
+timestamp: 915.6647
+stun_duration: 169.26227
+slow_duration: 188.52016
+timestamp_raw: 1106.9333
+last_hits: 1
+obs_wards_placed: 3
+networth: 1253
+
+
+02:11:43.999 [main] INFO  java.lang.Package - [00:15:26.428] npc_dota_hero_necrolyte buys item item_recipe_mekansm
+02:11:44.038 [main] INFO  java.lang.Package - [00:15:34.693] npc_dota_hero_kunkka buys item item_tpscroll
+02:11:44.801 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 1
+attacker_name: 2
+damage_source_name: 2
+value: 31
+timestamp: 938.49243
+stun_duration: 214.46263
+slow_duration: 235.53264
+timestamp_raw: 1129.7334
+last_hits: 12
+obs_wards_placed: 5
+networth: 2285
+
+
+02:11:45.401 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 1
+attacker_name: 2
+damage_source_name: 0
+value: 27
+timestamp: 938.49243
+stun_duration: 132.10564
+slow_duration: 179.42955
+timestamp_raw: 1129.7334
+last_hits: 7
+obs_wards_placed: 1
+networth: 1275
+
+
+02:11:45.893 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 2
+attacker_name: 4
+damage_source_name: 2
+value: 1
+timestamp: 938.49243
+stun_duration: 289.71268
+slow_duration: 210.61652
+timestamp_raw: 1129.7334
+last_hits: 34
+obs_wards_placed: 0
+networth: 3069
+
+
+02:11:46.309 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 2
+damage_source_name: 2
+value: 5
+timestamp: 938.49243
+stun_duration: 218.89401
+slow_duration: 218.97763
+timestamp_raw: 1129.7334
+last_hits: 33
+obs_wards_placed: 0
+networth: 2720
+
+
+02:11:46.312 [main] INFO  java.lang.Package - [00:15:40.591] npc_dota_hero_skywrath_mage buys item item_recipe_null_talisman
+02:11:46.317 [main] INFO  java.lang.Package - [00:15:48.456] npc_dota_hero_vengefulspirit buys item item_ward_observer
+02:11:46.317 [main] INFO  java.lang.Package - [00:15:48.589] npc_dota_hero_vengefulspirit buys item item_ward_observer
+02:11:46.321 [main] INFO  java.lang.Package - [00:15:56.021] npc_dota_hero_shredder buys item item_soul_ring
+02:11:46.322 [main] INFO  java.lang.Package - [00:15:56.021] npc_dota_hero_shredder buys item item_sobi_mask
+02:11:46.324 [main] INFO  java.lang.Package - [00:16:00.287] npc_dota_hero_necrolyte buys item item_tpscroll
+02:11:46.327 [main] INFO  java.lang.Package - [00:16:04.452] npc_dota_hero_skywrath_mage buys item item_null_talisman
+02:11:46.329 [main] INFO  java.lang.Package - [00:16:07.018] npc_dota_hero_skywrath_mage buys item item_tpscroll
+02:11:46.330 [main] INFO  java.lang.Package - [00:16:07.185] npc_dota_hero_skywrath_mage buys item item_tpscroll
+02:11:46.331 [main] INFO  java.lang.Package - [00:16:08.918] npc_dota_hero_invoker buys item item_void_stone
+02:11:46.332 [main] INFO  java.lang.Package - [00:16:10.284] npc_dota_hero_shredder buys item item_point_booster
+02:11:46.807 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 3
+damage_source_name: 3
+value: 9
+timestamp: 977.4496
+stun_duration: 163.60796
+slow_duration: 181.92761
+timestamp_raw: 1168.7334
+last_hits: 1
+obs_wards_placed: 4
+networth: 1226
+
+
+02:11:47.580 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 48
+value: 1
+timestamp: 983.88135
+attacker_team: 2
+target_team: 3
+
+
+02:11:47.615 [main] INFO  java.lang.Package - [00:16:31.679] npc_dota_hero_drow_ranger buys item item_tpscroll
+02:11:47.617 [main] INFO  java.lang.Package - [00:16:33.045] npc_dota_hero_drow_ranger buys item item_boots
+02:11:48.689 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 3
+attacker_name: 1
+damage_source_name: 0
+value: 6
+timestamp: 993.27905
+stun_duration: 399.43338
+slow_duration: 400.59857
+timestamp_raw: 1184.5334
+last_hits: 57
+obs_wards_placed: 0
+networth: 5248
+
+
+02:11:49.215 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 9
+target_source_name: 3
+attacker_name: 0
+damage_source_name: 0
+value: 29
+timestamp: 993.27905
+stun_duration: 280.19373
+slow_duration: 408.0559
+timestamp_raw: 1184.5334
+last_hits: 39
+obs_wards_placed: 0
+networth: 3857
+
+
+02:11:49.955 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 29
+target_source_name: 9
+attacker_name: 29
+value: 3
+timestamp: 993.27905
+
+
+02:11:50.549 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 1
+attacker_name: 2
+damage_source_name: 1
+value: 27
+timestamp: 993.27905
+stun_duration: 163.7506
+slow_duration: 199.71669
+timestamp_raw: 1184.5334
+last_hits: 7
+obs_wards_placed: 1
+networth: 1753
+
+
+02:11:51.048 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 3
+damage_source_name: 4
+value: 9
+timestamp: 993.27905
+stun_duration: 162.35234
+slow_duration: 178.19917
+timestamp_raw: 1184.5334
+last_hits: 1
+obs_wards_placed: 4
+networth: 1253
+
+
+02:11:51.054 [main] INFO  java.lang.Package - [00:16:37.644] npc_dota_hero_zuus buys item item_circlet
+02:11:51.054 [main] INFO  java.lang.Package - [00:16:37.644] npc_dota_hero_zuus buys item item_mantle
+02:11:51.054 [main] INFO  java.lang.Package - [00:16:37.678] npc_dota_hero_zuus buys item item_null_talisman
+02:11:51.054 [main] INFO  java.lang.Package - [00:16:37.678] npc_dota_hero_zuus buys item item_recipe_null_talisman
+02:11:51.590 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 4
+damage_source_name: 4
+value: 9
+timestamp: 998.17786
+stun_duration: 188.50035
+slow_duration: 203.86136
+timestamp_raw: 1189.4667
+last_hits: 1
+obs_wards_placed: 4
+networth: 1507
+
+
+02:11:52.082 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 7
+attacker_name: 1
+damage_source_name: 2
+value: 7
+timestamp: 998.17786
+stun_duration: 367.42905
+slow_duration: 288.53986
+timestamp_raw: 1189.4667
+last_hits: 21
+obs_wards_placed: 0
+networth: 4821
+
+
+02:11:52.766 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 5
+timestamp: 998.17786
+
+
+02:11:53.347 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 1
+attacker_name: 3
+damage_source_name: 1
+value: 27
+timestamp: 1002.8767
+stun_duration: 184.06842
+slow_duration: 226.19162
+timestamp_raw: 1194.1667
+last_hits: 7
+obs_wards_placed: 1
+networth: 1984
+
+
+02:11:53.862 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 1
+attacker_name: 1
+damage_source_name: 2
+value: 4
+timestamp: 1002.8767
+stun_duration: 323.942
+slow_duration: 396.6026
+timestamp_raw: 1194.1667
+last_hits: 47
+obs_wards_placed: 0
+networth: 4383
+
+
+02:11:54.403 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 7
+attacker_name: 1
+damage_source_name: 3
+value: 7
+timestamp: 1002.8767
+stun_duration: 385.7841
+slow_duration: 309.44058
+timestamp_raw: 1194.1667
+last_hits: 21
+obs_wards_placed: 0
+networth: 5089
+
+
+02:11:54.415 [main] INFO  java.lang.Package - [00:16:54.407] npc_dota_hero_morphling buys item item_void_stone
+02:11:54.435 [main] INFO  java.lang.Package - [00:17:12.236] npc_dota_hero_morphling buys item item_pers
+02:11:54.438 [main] INFO  java.lang.Package - [00:17:16.368] npc_dota_hero_skywrath_mage buys item item_tpscroll
+02:11:54.931 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 3
+damage_source_name: 2
+value: 5
+timestamp: 1036.5352
+stun_duration: 212.59111
+slow_duration: 208.91306
+timestamp_raw: 1227.8
+last_hits: 36
+obs_wards_placed: 0
+networth: 2735
+
+
+02:11:55.505 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 2
+attacker_name: 2
+damage_source_name: 5
+value: 28
+timestamp: 1036.5352
+stun_duration: 292.2576
+slow_duration: 269.74796
+timestamp_raw: 1227.8
+last_hits: 31
+obs_wards_placed: 0
+networth: 4003
+
+
+02:11:55.975 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 7
+attacker_name: 1
+damage_source_name: 4
+value: 7
+timestamp: 1036.5352
+stun_duration: 383.84097
+slow_duration: 322.04977
+timestamp_raw: 1227.8
+last_hits: 23
+obs_wards_placed: 0
+networth: 5279
+
+
+02:11:56.530 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 1
+attacker_name: 1
+damage_source_name: 3
+value: 4
+timestamp: 1036.5352
+stun_duration: 345.0008
+slow_duration: 402.37833
+timestamp_raw: 1227.8
+last_hits: 51
+obs_wards_placed: 0
+networth: 4851
+
+
+02:11:56.531 [main] INFO  java.lang.Package - [00:17:17.801] npc_dota_hero_skywrath_mage buys item item_circlet
+02:11:56.531 [main] INFO  java.lang.Package - [00:17:17.834] npc_dota_hero_skywrath_mage buys item item_mantle
+02:11:56.531 [main] INFO  java.lang.Package - [00:17:17.901] npc_dota_hero_skywrath_mage buys item item_null_talisman
+02:11:56.531 [main] INFO  java.lang.Package - [00:17:17.901] npc_dota_hero_skywrath_mage buys item item_recipe_null_talisman
+02:11:56.970 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 1
+attacker_name: 2
+damage_source_name: 3
+value: 4
+timestamp: 1039.5011
+stun_duration: 344.1173
+slow_duration: 400.92047
+timestamp_raw: 1230.7667
+last_hits: 51
+obs_wards_placed: 0
+networth: 4557
+
+
+02:11:57.412 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 3
+attacker_name: 4
+damage_source_name: 2
+value: 1
+timestamp: 1039.5011
+stun_duration: 299.5543
+slow_duration: 259.60883
+timestamp_raw: 1230.7667
+last_hits: 40
+obs_wards_placed: 0
+networth: 3641
+
+
+02:11:57.796 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 3
+damage_source_name: 3
+value: 5
+timestamp: 1039.5011
+stun_duration: 212.18735
+slow_duration: 208.15616
+timestamp_raw: 1230.7667
+last_hits: 36
+obs_wards_placed: 0
+networth: 2740
+
+
+02:11:58.176 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 9
+target_source_name: 3
+attacker_name: 0
+damage_source_name: 1
+value: 29
+timestamp: 1039.5011
+stun_duration: 306.95703
+slow_duration: 419.75714
+timestamp_raw: 1230.7667
+last_hits: 40
+obs_wards_placed: 0
+networth: 4438
+
+
+02:11:58.177 [main] INFO  java.lang.Package - [00:17:19.634] npc_dota_hero_medusa buys item item_tpscroll
+02:11:58.571 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 3
+attacker_name: 5
+damage_source_name: 2
+value: 1
+timestamp: 1043.0002
+stun_duration: 343.01755
+slow_duration: 327.76422
+timestamp_raw: 1234.3
+last_hits: 40
+obs_wards_placed: 0
+networth: 4206
+
+
+02:11:58.952 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 2
+attacker_name: 2
+damage_source_name: 2
+value: 31
+timestamp: 1043.0002
+stun_duration: 211.57616
+slow_duration: 205.59158
+timestamp_raw: 1234.3
+last_hits: 12
+obs_wards_placed: 5
+networth: 2594
+
+
+02:11:59.406 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 7
+attacker_name: 1
+damage_source_name: 5
+value: 7
+timestamp: 1043.0002
+stun_duration: 388.99652
+slow_duration: 341.04703
+timestamp_raw: 1234.3
+last_hits: 23
+obs_wards_placed: 0
+networth: 5391
+
+
+02:11:59.935 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 1
+attacker_name: 2
+damage_source_name: 4
+value: 4
+timestamp: 1043.0002
+stun_duration: 343.09055
+slow_duration: 399.21405
+timestamp_raw: 1234.3
+last_hits: 51
+obs_wards_placed: 0
+networth: 4563
+
+
+02:11:59.938 [main] INFO  java.lang.Package - [00:17:26.965] npc_dota_hero_necrolyte buys item item_mekansm
+02:11:59.986 [main] INFO  java.lang.Package - [00:17:29.065] npc_dota_hero_invoker buys item item_tpscroll
+02:11:59.993 [main] INFO  java.lang.Package - [00:17:41.395] npc_dota_hero_morphling buys item item_tpscroll
+02:11:59.994 [main] INFO  java.lang.Package - [00:17:41.995] npc_dota_hero_morphling buys item item_tpscroll
+02:12:00.454 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 2
+attacker_name: 2
+damage_source_name: 2
+value: 31
+timestamp: 1066.8944
+stun_duration: 229.92648
+slow_duration: 225.17477
+timestamp_raw: 1258.2001
+last_hits: 12
+obs_wards_placed: 6
+networth: 2937
+
+
+02:12:00.459 [main] INFO  java.lang.Package - [00:17:55.459] npc_dota_hero_kunkka buys item item_claymore
+02:12:00.460 [main] INFO  java.lang.Package - [00:17:57.358] npc_dota_hero_vengefulspirit buys item item_arcane_boots
+02:12:00.460 [main] INFO  java.lang.Package - [00:17:57.358] npc_dota_hero_vengefulspirit buys item item_energy_booster
+02:12:00.473 [main] INFO  java.lang.Package - [00:18:12.254] npc_dota_hero_kunkka buys item item_tpscroll
+02:12:00.473 [main] INFO  java.lang.Package - [00:18:12.354] npc_dota_hero_kunkka buys item item_tpscroll
+02:12:00.480 [main] INFO  java.lang.Package - [00:18:20.319] npc_dota_hero_invoker buys item item_staff_of_wizardry
+02:12:00.484 [main] INFO  java.lang.Package - [00:18:25.651] npc_dota_hero_necrolyte buys item item_point_booster
+02:12:00.494 [main] INFO  java.lang.Package - [00:18:38.215] npc_dota_hero_zuus buys item item_circlet
+02:12:00.494 [main] INFO  java.lang.Package - [00:18:38.215] npc_dota_hero_zuus buys item item_mantle
+02:12:00.494 [main] INFO  java.lang.Package - [00:18:38.248] npc_dota_hero_zuus buys item item_null_talisman
+02:12:00.495 [main] INFO  java.lang.Package - [00:18:38.248] npc_dota_hero_zuus buys item item_recipe_null_talisman
+02:12:00.886 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 1
+attacker_name: 4
+damage_source_name: 1
+value: 27
+timestamp: 1130.7122
+stun_duration: 172.25247
+slow_duration: 203.4452
+timestamp_raw: 1322.0334
+last_hits: 7
+obs_wards_placed: 1
+networth: 1992
+
+
+02:12:01.314 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 3
+attacker_name: 2
+damage_source_name: 2
+value: 31
+timestamp: 1130.7122
+stun_duration: 225.99895
+slow_duration: 217.55779
+timestamp_raw: 1322.0334
+last_hits: 12
+obs_wards_placed: 6
+networth: 3057
+
+
+02:12:01.736 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 2
+attacker_name: 2
+damage_source_name: 6
+value: 28
+timestamp: 1130.7122
+stun_duration: 303.22238
+slow_duration: 295.1769
+timestamp_raw: 1322.0334
+last_hits: 32
+obs_wards_placed: 0
+networth: 4628
+
+
+02:12:02.123 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 7
+attacker_name: 1
+damage_source_name: 6
+value: 7
+timestamp: 1130.7122
+stun_duration: 373.52145
+slow_duration: 331.77725
+timestamp_raw: 1322.0334
+last_hits: 26
+obs_wards_placed: 0
+networth: 5725
+
+
+02:12:02.483 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 1
+attacker_name: 3
+damage_source_name: 4
+value: 4
+timestamp: 1130.7788
+stun_duration: 327.46674
+slow_duration: 380.48392
+timestamp_raw: 1322.0668
+last_hits: 53
+obs_wards_placed: 0
+networth: 4504
+
+
+02:12:02.903 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 4
+attacker_name: 5
+damage_source_name: 2
+value: 1
+timestamp: 1130.7788
+stun_duration: 345.00723
+slow_duration: 315.3994
+timestamp_raw: 1322.0668
+last_hits: 48
+obs_wards_placed: 0
+networth: 4688
+
+
+02:12:03.345 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 1
+attacker_name: 4
+damage_source_name: 2
+value: 27
+timestamp: 1130.7788
+stun_duration: 172.23985
+slow_duration: 203.4303
+timestamp_raw: 1322.0668
+last_hits: 7
+obs_wards_placed: 1
+networth: 1992
+
+
+02:12:03.773 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 4
+damage_source_name: 5
+value: 9
+timestamp: 1130.7788
+stun_duration: 175.60289
+slow_duration: 188.13182
+timestamp_raw: 1322.0668
+last_hits: 1
+obs_wards_placed: 4
+networth: 1678
+
+
+02:12:04.175 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 3
+damage_source_name: 4
+value: 5
+timestamp: 1130.7788
+stun_duration: 203.4303
+slow_duration: 206.66145
+timestamp_raw: 1322.0668
+last_hits: 37
+obs_wards_placed: 0
+networth: 2930
+
+
+02:12:04.595 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 4
+damage_source_name: 4
+value: 5
+timestamp: 1135.6443
+stun_duration: 215.07295
+slow_duration: 233.11047
+timestamp_raw: 1326.9668
+last_hits: 37
+obs_wards_placed: 0
+networth: 2921
+
+
+02:12:04.970 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 3
+attacker_name: 2
+damage_source_name: 6
+value: 28
+timestamp: 1135.6443
+stun_duration: 304.99823
+slow_duration: 303.03052
+timestamp_raw: 1326.9668
+last_hits: 32
+obs_wards_placed: 0
+networth: 4680
+
+
+02:12:05.331 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 1
+attacker_name: 3
+damage_source_name: 5
+value: 4
+timestamp: 1135.6443
+stun_duration: 326.24973
+slow_duration: 378.46017
+timestamp_raw: 1326.9668
+last_hits: 53
+obs_wards_placed: 0
+networth: 4512
+
+
+02:12:05.695 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 7
+attacker_name: 1
+damage_source_name: 7
+value: 7
+timestamp: 1135.6443
+stun_duration: 374.06558
+slow_duration: 339.43353
+timestamp_raw: 1326.9668
+last_hits: 26
+obs_wards_placed: 0
+networth: 5764
+
+
+02:12:06.091 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 3
+attacker_name: 2
+damage_source_name: 3
+value: 31
+timestamp: 1135.6443
+stun_duration: 240.39108
+slow_duration: 225.82988
+timestamp_raw: 1326.9668
+last_hits: 12
+obs_wards_placed: 6
+networth: 3295
+
+
+02:12:06.455 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 5
+damage_source_name: 5
+value: 9
+timestamp: 1138.4103
+stun_duration: 190.22908
+slow_duration: 214.03223
+timestamp_raw: 1329.7334
+last_hits: 1
+obs_wards_placed: 4
+networth: 1822
+
+
+02:12:06.848 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 4
+attacker_name: 2
+damage_source_name: 3
+value: 31
+timestamp: 1138.4103
+stun_duration: 251.4372
+slow_duration: 248.69067
+timestamp_raw: 1329.7334
+last_hits: 12
+obs_wards_placed: 6
+networth: 3475
+
+
+02:12:07.249 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 31
+target_source_name: 3
+attacker_name: 31
+value: 3
+timestamp: 1138.4103
+
+
+02:12:07.808 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_MULTIKILL (15): type: DOTA_COMBATLOG_MULTIKILL
+target_name: 31
+target_source_name: 3
+attacker_name: 31
+value: 2
+timestamp: 1138.4103
+
+
+02:12:08.444 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 7
+attacker_name: 1
+damage_source_name: 8
+value: 7
+timestamp: 1138.4103
+stun_duration: 373.2649
+slow_duration: 338.41025
+timestamp_raw: 1329.7334
+last_hits: 26
+obs_wards_placed: 0
+networth: 5769
+
+
+02:12:08.496 [main] INFO  java.lang.Package - [00:19:30.202] npc_dota_hero_vengefulspirit buys item item_tpscroll
+02:12:08.499 [main] INFO  java.lang.Package - [00:19:32.135] npc_dota_hero_vengefulspirit buys item item_tpscroll
+02:12:08.500 [main] INFO  java.lang.Package - [00:19:33.168] npc_dota_hero_kunkka buys item item_tpscroll
+02:12:08.512 [main] INFO  java.lang.Package - [00:19:43.166] npc_dota_hero_drow_ranger buys item item_tpscroll
+02:12:08.517 [main] INFO  java.lang.Package - [00:19:47.964] npc_dota_hero_medusa buys item item_ultimate_orb
+02:12:09.088 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 3
+attacker_name: 3
+damage_source_name: 6
+value: 28
+timestamp: 1200.4951
+stun_duration: 327.2526
+slow_duration: 318.12653
+timestamp_raw: 1391.8
+last_hits: 39
+obs_wards_placed: 0
+networth: 5104
+
+
+02:12:09.503 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 2
+attacker_name: 4
+damage_source_name: 2
+value: 27
+timestamp: 1200.4951
+stun_duration: 169.41432
+slow_duration: 195.75133
+timestamp_raw: 1391.8
+last_hits: 8
+obs_wards_placed: 1
+networth: 2146
+
+
+02:12:10.048 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 5
+damage_source_name: 6
+value: 9
+timestamp: 1200.4951
+stun_duration: 189.87143
+slow_duration: 207.2661
+timestamp_raw: 1391.8
+last_hits: 3
+obs_wards_placed: 4
+networth: 1963
+
+
+02:12:10.547 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 2
+attacker_name: 5
+damage_source_name: 2
+value: 27
+timestamp: 1201.3282
+stun_duration: 195.76857
+slow_duration: 226.24458
+timestamp_raw: 1392.6334
+last_hits: 8
+obs_wards_placed: 1
+networth: 2423
+
+
+02:12:11.000 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 8
+attacker_name: 1
+damage_source_name: 8
+value: 7
+timestamp: 1201.3282
+stun_duration: 368.95554
+slow_duration: 347.84262
+timestamp_raw: 1392.6334
+last_hits: 29
+obs_wards_placed: 0
+networth: 6090
+
+
+02:12:11.726 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 6
+timestamp: 1201.3282
+
+
+02:12:12.814 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 3
+attacker_name: 3
+damage_source_name: 7
+value: 28
+timestamp: 1201.3282
+stun_duration: 327.09692
+slow_duration: 317.8562
+timestamp_raw: 1392.6334
+last_hits: 39
+obs_wards_placed: 0
+networth: 5106
+
+
+02:12:13.440 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 6
+damage_source_name: 6
+value: 9
+timestamp: 1204.5941
+stun_duration: 213.17276
+slow_duration: 236.96028
+timestamp_raw: 1395.9333
+last_hits: 3
+obs_wards_placed: 4
+networth: 2216
+
+
+02:12:13.810 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 9
+attacker_name: 1
+damage_source_name: 8
+value: 7
+timestamp: 1204.5941
+stun_duration: 390.42026
+slow_duration: 387.0656
+timestamp_raw: 1395.9333
+last_hits: 29
+obs_wards_placed: 0
+networth: 6462
+
+
+02:12:14.177 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 7
+timestamp: 1204.5941
+
+
+02:12:17.096 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_MULTIKILL (15): type: DOTA_COMBATLOG_MULTIKILL
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 2
+timestamp: 1204.5941
+
+
+02:12:19.955 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 3
+attacker_name: 3
+damage_source_name: 8
+value: 28
+timestamp: 1204.5941
+stun_duration: 326.31595
+slow_duration: 316.80093
+timestamp_raw: 1395.9333
+last_hits: 39
+obs_wards_placed: 0
+networth: 5111
+
+
+02:12:19.958 [main] INFO  java.lang.Package - [00:20:08.759] npc_dota_hero_shredder buys item item_vitality_booster
+02:12:19.964 [main] INFO  java.lang.Package - [00:20:18.790] npc_dota_hero_vengefulspirit buys item item_tpscroll
+02:12:20.016 [main] INFO  java.lang.Package - [00:20:33.720] npc_dota_hero_zuus buys item item_helm_of_iron_will
+02:12:20.017 [main] INFO  java.lang.Package - [00:20:34.820] npc_dota_hero_invoker buys item item_recipe_cyclone
+02:12:20.025 [main] INFO  java.lang.Package - [00:20:42.684] npc_dota_hero_shredder buys item item_tpscroll
+02:12:20.025 [main] INFO  java.lang.Package - [00:20:42.884] npc_dota_hero_shredder buys item item_tpscroll
+02:12:20.037 [main] INFO  java.lang.Package - [00:20:54.382] npc_dota_hero_invoker buys item item_cyclone
+02:12:20.038 [main] INFO  java.lang.Package - [00:20:56.381] npc_dota_hero_drow_ranger buys item item_gloves
+02:12:20.043 [main] INFO  java.lang.Package - [00:21:04.212] npc_dota_hero_morphling buys item item_tpscroll
+02:12:20.064 [main] INFO  java.lang.Package - [00:21:24.274] npc_dota_hero_medusa buys item item_recipe_sphere
+02:12:20.072 [main] INFO  java.lang.Package - [00:21:29.040] npc_dota_hero_kunkka buys item item_shadow_amulet
+02:12:20.073 [main] INFO  java.lang.Package - [00:21:30.206] npc_dota_hero_drow_ranger buys item item_power_treads
+02:12:20.091 [main] INFO  java.lang.Package - [00:21:52.334] npc_dota_hero_morphling buys item item_tpscroll
+02:12:20.096 [main] INFO  java.lang.Package - [00:21:57.599] npc_dota_hero_kunkka buys item item_invis_sword
+02:12:22.840 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 54
+value: 1
+timestamp: 1323.4651
+attacker_team: 3
+target_team: 2
+
+
+02:12:22.842 [main] INFO  java.lang.Package - [00:22:04.764] npc_dota_hero_vengefulspirit buys item item_ward_sentry
+02:12:22.844 [main] INFO  java.lang.Package - [00:22:06.031] npc_dota_hero_medusa buys item item_sphere
+02:12:22.847 [main] INFO  java.lang.Package - [00:22:09.863] npc_dota_hero_morphling buys item item_ultimate_orb
+02:12:22.849 [main] INFO  java.lang.Package - [00:22:11.129] npc_dota_hero_morphling buys item item_recipe_sphere
+02:12:22.851 [main] INFO  java.lang.Package - [00:22:13.529] npc_dota_hero_skywrath_mage buys item item_arcane_boots
+02:12:22.851 [main] INFO  java.lang.Package - [00:22:13.529] npc_dota_hero_skywrath_mage buys item item_energy_booster
+02:12:24.815 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 4
+attacker_name: 6
+damage_source_name: 2
+value: 1
+timestamp: 1336.8618
+stun_duration: 395.8684
+slow_duration: 370.33023
+timestamp_raw: 1528.2334
+last_hits: 72
+obs_wards_placed: 0
+networth: 6710
+
+
+02:12:25.848 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 4
+attacker_name: 3
+damage_source_name: 8
+value: 28
+timestamp: 1336.8618
+stun_duration: 316.35065
+slow_duration: 313.985
+timestamp_raw: 1528.2334
+last_hits: 46
+obs_wards_placed: 0
+networth: 5520
+
+
+02:12:25.850 [main] INFO  java.lang.Package - [00:22:17.028] npc_dota_hero_necrolyte buys item item_tpscroll
+02:12:25.852 [main] INFO  java.lang.Package - [00:22:20.061] npc_dota_hero_kunkka buys item item_tpscroll
+02:12:25.921 [main] INFO  java.lang.Package - [00:22:28.858] npc_dota_hero_zuus buys item item_recipe_veil_of_discord
+02:12:25.926 [main] INFO  java.lang.Package - [00:22:36.323] npc_dota_hero_morphling buys item item_sphere
+02:12:26.387 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 4
+attacker_name: 3
+damage_source_name: 3
+value: 31
+timestamp: 1357.7567
+stun_duration: 243.08807
+slow_duration: 237.81044
+timestamp_raw: 1549.1334
+last_hits: 12
+obs_wards_placed: 6
+networth: 4221
+
+
+02:12:26.964 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 9
+target_source_name: 4
+attacker_name: 0
+damage_source_name: 1
+value: 29
+timestamp: 1357.7567
+stun_duration: 295.1256
+slow_duration: 365.63486
+timestamp_raw: 1549.1334
+last_hits: 56
+obs_wards_placed: 0
+networth: 5792
+
+
+02:12:27.700 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 29
+target_source_name: 9
+attacker_name: 29
+value: 4
+timestamp: 1357.7567
+
+
+02:12:28.243 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 4
+damage_source_name: 5
+value: 5
+timestamp: 1357.7567
+stun_duration: 229.99953
+slow_duration: 236.96602
+timestamp_raw: 1549.1334
+last_hits: 49
+obs_wards_placed: 0
+networth: 3950
+
+
+02:12:28.638 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 6
+damage_source_name: 7
+value: 9
+timestamp: 1357.7567
+stun_duration: 210.73615
+slow_duration: 215.48602
+timestamp_raw: 1549.1334
+last_hits: 5
+obs_wards_placed: 4
+networth: 2664
+
+
+02:12:29.162 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 2
+attacker_name: 5
+damage_source_name: 3
+value: 27
+timestamp: 1357.7567
+stun_duration: 197.22539
+slow_duration: 228.15236
+timestamp_raw: 1549.1334
+last_hits: 8
+obs_wards_placed: 1
+networth: 2961
+
+
+02:12:29.167 [main] INFO  java.lang.Package - [00:22:41.055] npc_dota_hero_shredder buys item item_soul_booster
+02:12:29.167 [main] INFO  java.lang.Package - [00:22:41.055] npc_dota_hero_shredder buys item item_energy_booster
+02:12:29.168 [main] INFO  java.lang.Package - [00:22:41.622] npc_dota_hero_morphling buys item item_tpscroll
+02:12:29.596 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 7
+damage_source_name: 7
+value: 9
+timestamp: 1377.252
+stun_duration: 216.00407
+slow_duration: 225.23988
+timestamp_raw: 1568.6334
+last_hits: 5
+obs_wards_placed: 4
+networth: 2663
+
+
+02:12:30.019 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 10
+attacker_name: 1
+damage_source_name: 8
+value: 7
+timestamp: 1377.252
+stun_duration: 376.2819
+slow_duration: 389.25354
+timestamp_raw: 1568.6334
+last_hits: 34
+obs_wards_placed: 0
+networth: 7263
+
+
+02:12:30.700 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 8
+timestamp: 1377.252
+
+
+02:12:31.234 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 1
+attacker_name: 3
+damage_source_name: 6
+value: 4
+timestamp: 1377.252
+stun_duration: 321.33395
+slow_duration: 376.2819
+timestamp_raw: 1568.6334
+last_hits: 71
+obs_wards_placed: 0
+networth: 5631
+
+
+02:12:31.236 [main] INFO  java.lang.Package - [00:22:58.218] npc_dota_hero_vengefulspirit buys item item_ring_of_regen
+02:12:31.236 [main] INFO  java.lang.Package - [00:22:58.451] npc_dota_hero_vengefulspirit buys item item_recipe_headdress
+02:12:31.236 [main] INFO  java.lang.Package - [00:22:58.551] npc_dota_hero_vengefulspirit buys item item_sobi_mask
+02:12:31.237 [main] INFO  java.lang.Package - [00:23:00.051] npc_dota_hero_vengefulspirit buys item item_headdress
+02:12:31.237 [main] INFO  java.lang.Package - [00:23:00.051] npc_dota_hero_vengefulspirit buys item item_ward_dispenser
+02:12:31.237 [main] INFO  java.lang.Package - [00:23:00.817] npc_dota_hero_shredder buys item item_recipe_bloodstone
+02:12:31.238 [main] INFO  java.lang.Package - [00:23:02.150] npc_dota_hero_drow_ranger buys item item_ogre_axe
+02:12:31.239 [main] INFO  java.lang.Package - [00:23:02.983] npc_dota_hero_vengefulspirit buys item item_tpscroll
+02:12:31.240 [main] INFO  java.lang.Package - [00:23:05.849] npc_dota_hero_skywrath_mage buys item item_infused_raindrop
+02:12:31.241 [main] INFO  java.lang.Package - [00:23:06.649] npc_dota_hero_shredder buys item item_tpscroll
+02:12:31.245 [main] INFO  java.lang.Package - [00:23:12.381] npc_dota_hero_zuus buys item item_tpscroll
+02:12:31.247 [main] INFO  java.lang.Package - [00:23:14.081] npc_dota_hero_zuus buys item item_veil_of_discord
+02:12:31.257 [main] INFO  java.lang.Package - [00:23:25.245] npc_dota_hero_shredder buys item item_bloodstone
+02:12:31.698 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 5
+damage_source_name: 5
+value: 5
+timestamp: 1430.9388
+stun_duration: 242.27019
+slow_duration: 260.36856
+timestamp_raw: 1622.3334
+last_hits: 56
+obs_wards_placed: 0
+networth: 4264
+
+
+02:12:32.117 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 5
+attacker_name: 3
+damage_source_name: 8
+value: 28
+timestamp: 1430.9388
+stun_duration: 354.87674
+slow_duration: 394.39563
+timestamp_raw: 1622.3334
+last_hits: 60
+obs_wards_placed: 0
+networth: 6743
+
+
+02:12:32.553 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 3
+attacker_name: 1
+damage_source_name: 1
+value: 6
+timestamp: 1430.9388
+stun_duration: 409.6181
+slow_duration: 440.01343
+timestamp_raw: 1622.3334
+last_hits: 111
+obs_wards_placed: 0
+networth: 8267
+
+
+02:12:33.021 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 4
+attacker_name: 3
+damage_source_name: 4
+value: 31
+timestamp: 1430.9388
+stun_duration: 234.43582
+slow_duration: 225.65935
+timestamp_raw: 1622.3334
+last_hits: 12
+obs_wards_placed: 6
+networth: 4293
+
+
+02:12:33.417 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 1
+attacker_name: 3
+damage_source_name: 7
+value: 4
+timestamp: 1430.9388
+stun_duration: 327.3077
+slow_duration: 397.7178
+timestamp_raw: 1622.3334
+last_hits: 73
+obs_wards_placed: 0
+networth: 5989
+
+
+02:12:33.821 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 5
+attacker_name: 4
+damage_source_name: 8
+value: 28
+timestamp: 1444.6022
+stun_duration: 365.5256
+slow_duration: 404.75034
+timestamp_raw: 1635.9668
+last_hits: 60
+obs_wards_placed: 0
+networth: 6681
+
+
+02:12:34.265 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 3
+attacker_name: 5
+damage_source_name: 3
+value: 27
+timestamp: 1444.6022
+stun_duration: 190.33807
+slow_duration: 213.971
+timestamp_raw: 1635.9668
+last_hits: 8
+obs_wards_placed: 1
+networth: 3106
+
+
+02:12:34.644 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 4
+attacker_name: 6
+damage_source_name: 3
+value: 1
+timestamp: 1444.6022
+stun_duration: 387.63855
+slow_duration: 361.7502
+timestamp_raw: 1635.9668
+last_hits: 80
+obs_wards_placed: 0
+networth: 7203
+
+
+02:12:35.117 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 9
+target_source_name: 4
+attacker_name: 0
+damage_source_name: 2
+value: 29
+timestamp: 1444.6022
+stun_duration: 314.3373
+slow_duration: 386.06955
+timestamp_raw: 1635.9668
+last_hits: 60
+obs_wards_placed: 0
+networth: 6611
+
+
+02:12:35.510 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 7
+damage_source_name: 8
+value: 9
+timestamp: 1444.6022
+stun_duration: 209.60724
+slow_duration: 214.11807
+timestamp_raw: 1635.9668
+last_hits: 5
+obs_wards_placed: 4
+networth: 2725
+
+
+02:12:35.899 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 5
+damage_source_name: 6
+value: 5
+timestamp: 1444.6022
+stun_duration: 240.69284
+slow_duration: 257.46143
+timestamp_raw: 1635.9668
+last_hits: 56
+obs_wards_placed: 0
+networth: 4287
+
+
+02:12:35.903 [main] INFO  java.lang.Package - [00:24:08.068] npc_dota_hero_shredder buys item item_tpscroll
+02:12:35.903 [main] INFO  java.lang.Package - [00:24:08.434] npc_dota_hero_shredder buys item item_tpscroll
+02:12:35.911 [main] INFO  java.lang.Package - [00:24:14.199] npc_dota_hero_vengefulspirit buys item item_ring_of_protection
+02:12:36.256 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 4
+attacker_name: 7
+damage_source_name: 3
+value: 1
+timestamp: 1463.9974
+stun_duration: 389.36136
+slow_duration: 378.74286
+timestamp_raw: 1655.4001
+last_hits: 80
+obs_wards_placed: 0
+networth: 7035
+
+
+02:12:36.655 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 11
+attacker_name: 1
+damage_source_name: 8
+value: 7
+timestamp: 1463.9974
+stun_duration: 389.50616
+slow_duration: 409.7296
+timestamp_raw: 1655.4001
+last_hits: 43
+obs_wards_placed: 0
+networth: 8081
+
+
+02:12:37.079 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 9
+timestamp: 1463.9974
+
+
+02:12:37.627 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 3
+attacker_name: 1
+damage_source_name: 2
+value: 6
+timestamp: 1463.9974
+stun_duration: 404.13074
+slow_duration: 443.85364
+timestamp_raw: 1655.4001
+last_hits: 111
+obs_wards_placed: 0
+networth: 8379
+
+
+02:12:38.134 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 4
+attacker_name: 3
+damage_source_name: 5
+value: 31
+timestamp: 1463.9974
+stun_duration: 232.88318
+slow_duration: 223.08519
+timestamp_raw: 1655.4001
+last_hits: 13
+obs_wards_placed: 6
+networth: 4390
+
+
+02:12:38.518 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 1
+attacker_name: 3
+damage_source_name: 8
+value: 4
+timestamp: 1463.9974
+stun_duration: 330.04254
+slow_duration: 391.91946
+timestamp_raw: 1655.4001
+last_hits: 77
+obs_wards_placed: 0
+networth: 6226
+
+
+02:12:38.560 [main] INFO  java.lang.Package - [00:24:32.928] npc_dota_hero_necrolyte buys item item_staff_of_wizardry
+02:12:38.560 [main] INFO  java.lang.Package - [00:24:32.928] npc_dota_hero_necrolyte buys item item_ogre_axe
+02:12:38.560 [main] INFO  java.lang.Package - [00:24:32.961] npc_dota_hero_necrolyte buys item item_blade_of_alacrity
+02:12:38.563 [main] INFO  java.lang.Package - [00:24:36.527] npc_dota_hero_vengefulspirit buys item item_ring_of_basilius
+02:12:38.566 [main] INFO  java.lang.Package - [00:24:39.460] npc_dota_hero_vengefulspirit buys item item_tpscroll
+02:12:38.569 [main] INFO  java.lang.Package - [00:24:44.692] npc_dota_hero_skywrath_mage buys item item_infused_raindrop
+02:12:39.773 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 50
+value: 1
+timestamp: 1491.0908
+attacker_team: 2
+target_team: 3
+
+
+02:12:39.779 [main] INFO  java.lang.Package - [00:24:58.822] npc_dota_hero_zuus buys item item_ward_observer
+02:12:39.780 [main] INFO  java.lang.Package - [00:24:58.988] npc_dota_hero_zuus buys item item_ward_observer
+02:12:39.780 [main] INFO  java.lang.Package - [00:24:59.222] npc_dota_hero_zuus buys item item_ward_observer
+02:12:39.780 [main] INFO  java.lang.Package - [00:24:59.388] npc_dota_hero_zuus buys item item_ward_observer
+02:12:39.781 [main] INFO  java.lang.Package - [00:25:00.655] npc_dota_hero_necrolyte buys item item_ultimate_scepter
+02:12:40.708 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 7
+damage_source_name: 8
+value: 9
+timestamp: 1532.1808
+stun_duration: 216.01532
+slow_duration: 236.2396
+timestamp_raw: 1723.6001
+last_hits: 7
+obs_wards_placed: 5
+networth: 3121
+
+
+02:12:40.721 [main] INFO  java.lang.Package - [00:25:47.777] npc_dota_hero_invoker buys item item_point_booster
+02:12:40.735 [main] INFO  java.lang.Package - [00:26:03.039] npc_dota_hero_invoker buys item item_tpscroll
+02:12:40.753 [main] INFO  java.lang.Package - [00:26:19.369] npc_dota_hero_kunkka buys item item_broadsword
+02:12:40.753 [main] INFO  java.lang.Package - [00:26:19.402] npc_dota_hero_kunkka buys item item_blades_of_attack
+02:12:40.753 [main] INFO  java.lang.Package - [00:26:19.435] npc_dota_hero_kunkka buys item item_lesser_crit
+02:12:40.753 [main] INFO  java.lang.Package - [00:26:19.435] npc_dota_hero_kunkka buys item item_recipe_lesser_crit
+02:12:41.753 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 47
+value: 1
+timestamp: 1583.7349
+attacker_team: 2
+target_team: 3
+
+
+02:12:41.775 [main] INFO  java.lang.Package - [00:26:46.862] npc_dota_hero_kunkka buys item item_tpscroll
+02:12:41.775 [main] INFO  java.lang.Package - [00:26:46.962] npc_dota_hero_kunkka buys item item_tpscroll
+02:12:41.790 [main] INFO  java.lang.Package - [00:27:05.124] npc_dota_hero_skywrath_mage buys item item_helm_of_iron_will
+02:12:42.343 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 142
+value: 1
+timestamp: 1628.7572
+attacker_team: 2
+target_team: 3
+
+
+02:12:43.231 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 4
+attacker_name: 3
+damage_source_name: 5
+value: 31
+timestamp: 1633.656
+stun_duration: 248.27802
+slow_duration: 223.1784
+timestamp_raw: 1825.1001
+last_hits: 14
+obs_wards_placed: 7
+networth: 5216
+
+
+02:12:43.238 [main] INFO  java.lang.Package - [00:27:22.920] npc_dota_hero_vengefulspirit buys item item_ward_observer
+02:12:43.238 [main] INFO  java.lang.Package - [00:27:23.120] npc_dota_hero_vengefulspirit buys item item_ward_observer
+02:12:43.239 [main] INFO  java.lang.Package - [00:27:24.186] npc_dota_hero_drow_ranger buys item item_tpscroll
+02:12:43.297 [main] INFO  java.lang.Package - [00:27:30.018] npc_dota_hero_vengefulspirit buys item item_ward_dispenser
+02:12:43.888 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 4
+attacker_name: 3
+damage_source_name: 5
+value: 31
+timestamp: 1650.2853
+stun_duration: 246.56493
+slow_duration: 221.37955
+timestamp_raw: 1841.7334
+last_hits: 14
+obs_wards_placed: 8
+networth: 5244
+
+
+02:12:43.892 [main] INFO  java.lang.Package - [00:27:34.784] npc_dota_hero_zuus buys item item_void_stone
+02:12:44.380 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 4
+attacker_name: 3
+damage_source_name: 5
+value: 31
+timestamp: 1665.2483
+stun_duration: 245.04913
+slow_duration: 219.08614
+timestamp_raw: 1856.7001
+last_hits: 14
+obs_wards_placed: 9
+networth: 5269
+
+
+02:12:44.383 [main] INFO  java.lang.Package - [00:27:49.114] npc_dota_hero_shredder buys item item_point_booster
+02:12:44.427 [main] INFO  java.lang.Package - [00:28:34.969] npc_dota_hero_medusa buys item item_ultimate_orb
+02:12:44.894 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 6
+damage_source_name: 6
+value: 5
+timestamp: 1719.2684
+stun_duration: 235.53383
+slow_duration: 250.99048
+timestamp_raw: 1910.7334
+last_hits: 67
+obs_wards_placed: 0
+networth: 4931
+
+
+02:12:45.433 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 12
+attacker_name: 1
+damage_source_name: 8
+value: 7
+timestamp: 1719.2684
+stun_duration: 407.9997
+slow_duration: 385.53546
+timestamp_raw: 1910.7334
+last_hits: 58
+obs_wards_placed: 0
+networth: 10200
+
+
+02:12:46.221 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 10
+timestamp: 1719.2684
+
+
+02:12:46.796 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 3
+attacker_name: 1
+damage_source_name: 3
+value: 6
+timestamp: 1719.2684
+stun_duration: 421.97473
+slow_duration: 422.215
+timestamp_raw: 1910.7334
+last_hits: 132
+obs_wards_placed: 0
+networth: 10544
+
+
+02:12:47.330 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 4
+attacker_name: 3
+damage_source_name: 6
+value: 31
+timestamp: 1719.2684
+stun_duration: 254.9147
+slow_duration: 239.93857
+timestamp_raw: 1910.7334
+last_hits: 22
+obs_wards_placed: 9
+networth: 5736
+
+
+02:12:47.786 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 1
+attacker_name: 3
+damage_source_name: 9
+value: 4
+timestamp: 1719.2684
+stun_duration: 363.9522
+slow_duration: 405.39688
+timestamp_raw: 1910.7334
+last_hits: 98
+obs_wards_placed: 0
+networth: 8327
+
+
+02:12:48.235 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 5
+attacker_name: 4
+damage_source_name: 9
+value: 28
+timestamp: 1719.2684
+stun_duration: 361.7899
+slow_duration: 361.4295
+timestamp_raw: 1910.7334
+last_hits: 72
+obs_wards_placed: 0
+networth: 8211
+
+
+02:12:48.618 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 4
+attacker_name: 3
+damage_source_name: 6
+value: 31
+timestamp: 1719.9349
+stun_duration: 254.8414
+slow_duration: 239.8319
+timestamp_raw: 1911.4001
+last_hits: 22
+obs_wards_placed: 10
+networth: 5737
+
+
+02:12:48.626 [main] INFO  java.lang.Package - [00:28:47.399] npc_dota_hero_invoker buys item item_ogre_axe
+02:12:49.405 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 49
+value: 1
+timestamp: 1746.3951
+attacker_team: 2
+target_team: 3
+
+
+02:12:50.092 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 9
+target_source_name: 4
+attacker_name: 1
+damage_source_name: 2
+value: 29
+timestamp: 1759.0587
+stun_duration: 296.65048
+slow_duration: 350.32452
+timestamp_raw: 1950.5334
+last_hits: 74
+obs_wards_placed: 0
+networth: 7684
+
+
+02:12:50.661 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 2
+attacker_name: 3
+damage_source_name: 9
+value: 4
+timestamp: 1759.0587
+stun_duration: 369.9062
+slow_duration: 399.74677
+timestamp_raw: 1950.5334
+last_hits: 100
+obs_wards_placed: 0
+networth: 8721
+
+
+02:12:51.158 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 4
+attacker_name: 3
+damage_source_name: 7
+value: 31
+timestamp: 1759.0587
+stun_duration: 263.76733
+slow_duration: 235.8381
+timestamp_raw: 1950.5334
+last_hits: 24
+obs_wards_placed: 10
+networth: 6067
+
+
+02:12:51.803 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 12
+attacker_name: 1
+damage_source_name: 9
+value: 7
+timestamp: 1759.0587
+stun_duration: 427.98804
+slow_duration: 419.40643
+timestamp_raw: 1950.5334
+last_hits: 59
+obs_wards_placed: 0
+networth: 10983
+
+
+02:12:52.774 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 3
+attacker_name: 1
+damage_source_name: 4
+value: 6
+timestamp: 1759.0587
+stun_duration: 438.32498
+slow_duration: 416.12982
+timestamp_raw: 1950.5334
+last_hits: 138
+obs_wards_placed: 0
+networth: 11243
+
+
+02:12:53.527 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 271
+value: 2
+timestamp: 1775.4214
+attacker_team: 2
+target_team: 3
+
+
+02:12:54.133 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 272
+value: 2
+timestamp: 1778.0541
+attacker_team: 2
+target_team: 3
+
+
+02:12:54.607 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 1785.2856
+attacker_team: 2
+target_team: 3
+
+
+02:12:54.613 [main] INFO  java.lang.Package - [00:29:52.450] npc_dota_hero_zuus buys item item_staff_of_wizardry
+02:12:54.614 [main] INFO  java.lang.Package - [00:29:52.683] npc_dota_hero_zuus buys item item_wind_lace
+02:12:54.615 [main] INFO  java.lang.Package - [00:29:53.750] npc_dota_hero_medusa buys item item_blade_of_alacrity
+02:12:54.615 [main] INFO  java.lang.Package - [00:29:53.816] npc_dota_hero_medusa buys item item_boots_of_elves
+02:12:54.615 [main] INFO  java.lang.Package - [00:29:53.816] npc_dota_hero_medusa buys item item_yasha
+02:12:54.615 [main] INFO  java.lang.Package - [00:29:53.816] npc_dota_hero_medusa buys item item_recipe_yasha
+02:12:54.615 [main] INFO  java.lang.Package - [00:29:53.883] npc_dota_hero_medusa buys item item_recipe_manta
+02:12:54.617 [main] INFO  java.lang.Package - [00:29:55.149] npc_dota_hero_shredder buys item item_ogre_axe
+02:12:54.623 [main] INFO  java.lang.Package - [00:30:01.381] npc_dota_hero_necrolyte buys item item_mystic_staff
+02:12:54.921 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 0
+attacker_name: 8
+damage_source_name: 8
+value: 9
+timestamp: 1814.8451
+stun_duration: 198.59969
+slow_duration: 223.97046
+timestamp_raw: 2006.3335
+last_hits: 9
+obs_wards_placed: 5
+networth: 3047
+
+
+02:12:55.304 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 5
+attacker_name: 3
+damage_source_name: 7
+value: 31
+timestamp: 1814.8451
+stun_duration: 283.5579
+slow_duration: 242.11395
+timestamp_raw: 2006.3335
+last_hits: 26
+obs_wards_placed: 10
+networth: 6838
+
+
+02:12:55.635 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 3
+attacker_name: 1
+damage_source_name: 5
+value: 6
+timestamp: 1814.8451
+stun_duration: 462.09433
+slow_duration: 416.0957
+timestamp_raw: 2006.3335
+last_hits: 147
+obs_wards_placed: 0
+networth: 12282
+
+
+02:12:55.900 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 12
+attacker_name: 1
+damage_source_name: 10
+value: 7
+timestamp: 1814.8451
+stun_duration: 442.44516
+slow_duration: 423.323
+timestamp_raw: 2006.3335
+last_hits: 62
+obs_wards_placed: 0
+networth: 11765
+
+
+02:12:55.905 [main] INFO  java.lang.Package - [00:30:20.110] npc_dota_hero_zuus buys item item_recipe_cyclone
+02:12:55.912 [main] INFO  java.lang.Package - [00:30:26.575] npc_dota_hero_skywrath_mage buys item item_recipe_veil_of_discord
+02:12:56.309 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 12
+attacker_name: 1
+damage_source_name: 11
+value: 7
+timestamp: 1827.6086
+stun_duration: 442.62744
+slow_duration: 428.92252
+timestamp_raw: 2019.1001
+last_hits: 63
+obs_wards_placed: 0
+networth: 11864
+
+
+02:12:56.310 [main] INFO  java.lang.Package - [00:30:28.175] npc_dota_hero_medusa buys item item_manta
+02:12:56.316 [main] INFO  java.lang.Package - [00:30:36.706] npc_dota_hero_skywrath_mage buys item item_veil_of_discord
+02:12:56.770 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 7
+damage_source_name: 6
+value: 5
+timestamp: 1839.9723
+stun_duration: 225.42328
+slow_duration: 235.54008
+timestamp_raw: 2031.4668
+last_hits: 67
+obs_wards_placed: 0
+networth: 4803
+
+
+02:12:57.194 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 3
+attacker_name: 3
+damage_source_name: 9
+value: 4
+timestamp: 1839.9723
+stun_duration: 395.44498
+slow_duration: 402.96774
+timestamp_raw: 2031.4668
+last_hits: 101
+obs_wards_placed: 0
+networth: 9909
+
+
+02:12:57.564 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 5
+attacker_name: 3
+damage_source_name: 8
+value: 31
+timestamp: 1839.9723
+stun_duration: 290.31168
+slow_duration: 247.25038
+timestamp_raw: 2031.4668
+last_hits: 26
+obs_wards_placed: 10
+networth: 7139
+
+
+02:12:57.993 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 12
+attacker_name: 1
+damage_source_name: 12
+value: 7
+timestamp: 1839.9723
+stun_duration: 440.02563
+slow_duration: 425.6472
+timestamp_raw: 2031.4668
+last_hits: 63
+obs_wards_placed: 0
+networth: 11885
+
+
+02:12:58.393 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 3
+attacker_name: 1
+damage_source_name: 6
+value: 6
+timestamp: 1839.9723
+stun_duration: 464.33563
+slow_duration: 418.53204
+timestamp_raw: 2031.4668
+last_hits: 151
+obs_wards_placed: 0
+networth: 12536
+
+
+02:12:58.736 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 4
+attacker_name: 8
+damage_source_name: 3
+value: 1
+timestamp: 1851.5028
+stun_duration: 347.9417
+slow_duration: 321.55908
+timestamp_raw: 2043.0001
+last_hits: 96
+obs_wards_placed: 0
+networth: 8015
+
+
+02:12:59.093 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 13
+attacker_name: 1
+damage_source_name: 12
+value: 7
+timestamp: 1851.5028
+stun_duration: 439.56342
+slow_duration: 435.0743
+timestamp_raw: 2043.0001
+last_hits: 63
+obs_wards_placed: 0
+networth: 11957
+
+
+02:12:59.454 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 11
+timestamp: 1851.5028
+
+
+02:12:59.841 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 5
+attacker_name: 3
+damage_source_name: 9
+value: 31
+timestamp: 1851.5028
+stun_duration: 293.26306
+slow_duration: 257.93903
+timestamp_raw: 2043.0001
+last_hits: 27
+obs_wards_placed: 10
+networth: 7275
+
+
+02:13:00.258 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 3
+attacker_name: 1
+damage_source_name: 7
+value: 6
+timestamp: 1851.5028
+stun_duration: 470.0672
+slow_duration: 428.00952
+timestamp_raw: 2043.0001
+last_hits: 155
+obs_wards_placed: 0
+networth: 12781
+
+
+02:13:00.686 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 3
+attacker_name: 3
+damage_source_name: 10
+value: 4
+timestamp: 1851.5028
+stun_duration: 403.65067
+slow_duration: 412.55527
+timestamp_raw: 2043.0001
+last_hits: 101
+obs_wards_placed: 0
+networth: 10208
+
+
+02:13:01.214 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 41
+value: 1
+timestamp: 1871.9645
+attacker_team: 2
+target_team: 3
+
+
+02:13:01.221 [main] INFO  java.lang.Package - [00:31:16.929] npc_dota_hero_shredder buys item item_staff_of_wizardry
+02:13:01.807 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 5
+attacker_name: 4
+damage_source_name: 9
+value: 31
+timestamp: 1881.9954
+stun_duration: 301.6777
+slow_duration: 266.96597
+timestamp_raw: 2073.4668
+last_hits: 27
+obs_wards_placed: 10
+networth: 7509
+
+
+02:13:02.256 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 1
+attacker_name: 8
+damage_source_name: 8
+value: 9
+timestamp: 1881.9954
+stun_duration: 196.24222
+slow_duration: 216.00008
+timestamp_raw: 2073.4668
+last_hits: 10
+obs_wards_placed: 5
+networth: 3204
+
+
+02:13:02.896 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 3
+attacker_name: 5
+damage_source_name: 4
+value: 27
+timestamp: 1881.9954
+stun_duration: 186.41747
+slow_duration: 201.98535
+timestamp_raw: 2073.4668
+last_hits: 11
+obs_wards_placed: 1
+networth: 4160
+
+
+02:13:06.270 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 9
+target_source_name: 4
+attacker_name: 1
+damage_source_name: 3
+value: 29
+timestamp: 1881.9954
+stun_duration: 283.90646
+slow_duration: 329.2737
+timestamp_raw: 2073.4668
+last_hits: 75
+obs_wards_placed: 0
+networth: 7939
+
+
+02:13:06.273 [main] INFO  java.lang.Package - [00:31:25.061] npc_dota_hero_vengefulspirit buys item item_lifesteal
+02:13:06.273 [main] INFO  java.lang.Package - [00:31:25.294] npc_dota_hero_vengefulspirit buys item item_recipe_vladmir
+02:13:06.346 [main] INFO  java.lang.Package - [00:31:36.925] npc_dota_hero_vengefulspirit buys item item_vladmir
+02:13:09.171 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 1897.5249
+attacker_team: 2
+target_team: 3
+
+
+02:13:09.173 [main] INFO  java.lang.Package - [00:31:40.224] npc_dota_hero_skywrath_mage buys item item_tome_of_knowledge
+02:13:09.174 [main] INFO  java.lang.Package - [00:31:40.390] npc_dota_hero_skywrath_mage buys item item_tome_of_knowledge
+02:13:09.737 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 281
+value: 2
+timestamp: 1902.1571
+attacker_team: 2
+target_team: 3
+
+
+02:13:09.747 [main] INFO  java.lang.Package - [00:31:51.488] npc_dota_hero_shredder buys item item_blade_of_alacrity
+02:13:10.293 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 285
+value: 2
+timestamp: 1912.0214
+attacker_team: 2
+target_team: 3
+
+
+02:13:10.739 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 1919.8195
+attacker_team: 2
+target_team: 3
+
+
+02:13:12.896 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 1921.3524
+attacker_team: 2
+target_team: 3
+
+
+02:13:12.897 [main] INFO  java.lang.Package - [00:32:02.418] npc_dota_hero_necrolyte buys item item_recipe_shivas_guard
+02:13:15.882 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 1926.7511
+attacker_team: 2
+target_team: 3
+
+
+02:13:15.884 [main] INFO  java.lang.Package - [00:32:07.884] npc_dota_hero_zuus buys item item_cyclone
+02:13:16.615 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 1927.8842
+attacker_team: 2
+target_team: 3
+
+
+02:13:17.669 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 1932.1831
+attacker_team: 2
+target_team: 3
+
+
+02:13:17.672 [main] INFO  java.lang.Package - [00:32:16.082] npc_dota_hero_invoker buys item item_tpscroll
+02:13:17.673 [main] INFO  java.lang.Package - [00:32:17.981] npc_dota_hero_necrolyte buys item item_platemail
+02:13:17.675 [main] INFO  java.lang.Package - [00:32:20.614] npc_dota_hero_invoker buys item item_tpscroll
+02:13:17.678 [main] INFO  java.lang.Package - [00:32:21.880] npc_dota_hero_zuus buys item item_ring_of_health
+02:13:19.344 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 1
+attacker_name: 9
+damage_source_name: 8
+value: 9
+timestamp: 1948.879
+stun_duration: 217.01463
+slow_duration: 233.64662
+timestamp_raw: 2140.3667
+last_hits: 13
+obs_wards_placed: 5
+networth: 3815
+
+
+02:13:19.836 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 4
+attacker_name: 1
+damage_source_name: 7
+value: 6
+timestamp: 1948.879
+stun_duration: 507.57117
+slow_duration: 426.59866
+timestamp_raw: 2140.3667
+last_hits: 171
+obs_wards_placed: 0
+networth: 14624
+
+
+02:13:20.369 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 5
+attacker_name: 5
+damage_source_name: 10
+value: 28
+timestamp: 1948.879
+stun_duration: 419.41116
+slow_duration: 384.09854
+timestamp_raw: 2140.3667
+last_hits: 93
+obs_wards_placed: 0
+networth: 11201
+
+
+02:13:20.899 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 3
+attacker_name: 3
+damage_source_name: 11
+value: 4
+timestamp: 1948.879
+stun_duration: 427.50146
+slow_duration: 407.39722
+timestamp_raw: 2140.3667
+last_hits: 104
+obs_wards_placed: 0
+networth: 11550
+
+
+02:13:20.905 [main] INFO  java.lang.Package - [00:32:33.311] npc_dota_hero_zuus buys item item_aether_lens
+02:13:20.905 [main] INFO  java.lang.Package - [00:32:33.311] npc_dota_hero_zuus buys item item_recipe_aether_lens
+02:13:20.905 [main] INFO  java.lang.Package - [00:32:33.311] npc_dota_hero_necrolyte buys item item_shivas_guard
+02:13:20.906 [main] INFO  java.lang.Package - [00:32:35.277] npc_dota_hero_zuus buys item item_tpscroll
+02:13:20.915 [main] INFO  java.lang.Package - [00:32:45.908] npc_dota_hero_shredder buys item item_ultimate_scepter
+02:13:20.921 [main] INFO  java.lang.Package - [00:32:53.872] npc_dota_hero_morphling buys item item_recipe_travel_boots
+02:13:20.923 [main] INFO  java.lang.Package - [00:32:57.105] npc_dota_hero_morphling buys item item_travel_boots
+02:13:23.499 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 30
+value: 1
+timestamp: 1979.4716
+attacker_team: 2
+target_team: 3
+
+
+02:13:23.523 [main] INFO  java.lang.Package - [00:33:24.898] npc_dota_hero_invoker buys item item_staff_of_wizardry
+02:13:24.598 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 297
+value: 2
+timestamp: 2010.9305
+attacker_team: 2
+target_team: 3
+
+
+02:13:25.717 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 1
+attacker_name: 10
+damage_source_name: 8
+value: 9
+timestamp: 2011.2638
+stun_duration: 212.93816
+slow_duration: 225.50533
+timestamp_raw: 2202.8
+last_hits: 13
+obs_wards_placed: 5
+networth: 3815
+
+
+02:13:26.222 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 14
+attacker_name: 1
+damage_source_name: 12
+value: 7
+timestamp: 2011.2638
+stun_duration: 465.6556
+slow_duration: 416.82794
+timestamp_raw: 2202.8
+last_hits: 67
+obs_wards_placed: 0
+networth: 13906
+
+
+02:13:27.162 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 12
+timestamp: 2011.2638
+
+
+02:19:29.837 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 5
+attacker_name: 4
+damage_source_name: 10
+value: 31
+timestamp: 2011.2638
+stun_duration: 321.1499
+slow_duration: 249.63431
+timestamp_raw: 2202.8
+last_hits: 27
+obs_wards_placed: 10
+networth: 8360
+
+
+02:19:31.320 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 5
+attacker_name: 5
+damage_source_name: 11
+value: 28
+timestamp: 2011.2638
+stun_duration: 431.2383
+slow_duration: 387.337
+timestamp_raw: 2202.8
+last_hits: 95
+obs_wards_placed: 0
+networth: 11990
+
+
+02:19:31.768 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 3
+attacker_name: 3
+damage_source_name: 12
+value: 4
+timestamp: 2011.2638
+stun_duration: 438.64456
+slow_duration: 417.63226
+timestamp_raw: 2202.8
+last_hits: 105
+obs_wards_placed: 0
+networth: 12327
+
+
+02:19:32.184 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 5
+attacker_name: 6
+damage_source_name: 11
+value: 28
+timestamp: 2014.563
+stun_duration: 432.18457
+slow_duration: 393.68268
+timestamp_raw: 2206.067
+last_hits: 95
+obs_wards_placed: 0
+networth: 11688
+
+
+02:19:32.632 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 9
+target_source_name: 5
+attacker_name: 1
+damage_source_name: 3
+value: 29
+timestamp: 2014.563
+stun_duration: 292.0591
+slow_duration: 340.56277
+timestamp_raw: 2206.067
+last_hits: 85
+obs_wards_placed: 0
+networth: 8810
+
+
+02:19:33.503 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 3
+attacker_name: 5
+damage_source_name: 5
+value: 27
+timestamp: 2014.563
+stun_duration: 193.21193
+slow_duration: 244.05717
+timestamp_raw: 2206.067
+last_hits: 13
+obs_wards_placed: 1
+networth: 4475
+
+
+02:19:33.950 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 7
+damage_source_name: 7
+value: 5
+timestamp: 2014.563
+stun_duration: 219.30357
+slow_duration: 225.79303
+timestamp_raw: 2206.067
+last_hits: 71
+obs_wards_placed: 0
+networth: 5276
+
+
+02:19:34.969 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 2022.3944
+attacker_team: 2
+target_team: 3
+
+
+02:19:35.993 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 4
+attacker_name: 9
+damage_source_name: 3
+value: 1
+timestamp: 2022.4944
+stun_duration: 355.3156
+slow_duration: 330.60437
+timestamp_raw: 2214.0
+last_hits: 110
+obs_wards_placed: 0
+networth: 9147
+
+
+02:19:36.423 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 5
+attacker_name: 1
+damage_source_name: 7
+value: 6
+timestamp: 2022.4944
+stun_duration: 541.316
+slow_duration: 434.17844
+timestamp_raw: 2214.0
+last_hits: 181
+obs_wards_placed: 0
+networth: 16260
+
+
+02:19:37.046 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 14
+attacker_name: 1
+damage_source_name: 13
+value: 7
+timestamp: 2022.4944
+stun_duration: 471.84476
+slow_duration: 421.98935
+timestamp_raw: 2214.0
+last_hits: 67
+obs_wards_placed: 0
+networth: 14179
+
+
+02:19:37.634 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 5
+attacker_name: 4
+damage_source_name: 11
+value: 31
+timestamp: 2022.4944
+stun_duration: 321.5125
+slow_duration: 255.8379
+timestamp_raw: 2214.0
+last_hits: 27
+obs_wards_placed: 10
+networth: 8431
+
+
+02:19:38.105 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 3
+attacker_name: 3
+damage_source_name: 13
+value: 4
+timestamp: 2022.4944
+stun_duration: 436.50967
+slow_duration: 415.76157
+timestamp_raw: 2214.0
+last_hits: 105
+obs_wards_placed: 0
+networth: 12345
+
+
+02:19:38.853 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 301
+value: 2
+timestamp: 2027.3599
+attacker_team: 2
+target_team: 3
+
+
+02:19:39.357 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 2033.3584
+attacker_team: 2
+target_team: 3
+
+
+02:19:39.822 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 2037.824
+attacker_team: 2
+target_team: 3
+
+
+02:19:40.342 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 2039.7235
+attacker_team: 2
+target_team: 3
+
+
+02:19:40.821 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 2043.8892
+attacker_team: 2
+target_team: 3
+
+
+02:19:40.825 [main] INFO  java.lang.Package - [00:34:09.426] npc_dota_hero_shredder buys item item_tpscroll
+02:19:41.317 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 44
+value: 1
+timestamp: 2052.102
+attacker_team: 2
+target_team: 3
+
+
+02:19:41.319 [main] INFO  java.lang.Package - [00:34:13.138] npc_dota_hero_necrolyte buys item item_recipe_guardian_greaves
+02:19:41.322 [main] INFO  java.lang.Package - [00:34:16.383] npc_dota_hero_necrolyte buys item item_guardian_greaves
+02:19:41.824 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 44
+value: 1
+timestamp: 2064.9792
+attacker_team: 2
+target_team: 3
+
+
+02:19:42.321 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 273
+value: 0
+timestamp: 2078.5254
+attacker_team: 2
+target_team: 3
+
+
+02:19:43.255 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 4
+attacker_name: 10
+damage_source_name: 3
+value: 1
+timestamp: 2084.3452
+stun_duration: 346.83862
+slow_duration: 319.63116
+timestamp_raw: 2275.7334
+last_hits: 110
+obs_wards_placed: 0
+networth: 9147
+
+
+02:19:43.767 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 15
+attacker_name: 1
+damage_source_name: 13
+value: 7
+timestamp: 2084.3452
+stun_duration: 490.18484
+slow_duration: 420.21823
+timestamp_raw: 2275.7334
+last_hits: 68
+obs_wards_placed: 0
+networth: 15235
+
+
+02:19:44.467 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_KILLSTREAK (16): type: DOTA_COMBATLOG_KILLSTREAK
+target_name: 7
+target_source_name: 1
+attacker_name: 7
+value: 13
+timestamp: 2084.3452
+
+
+02:19:44.950 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 5
+attacker_name: 1
+damage_source_name: 8
+value: 6
+timestamp: 2084.3452
+stun_duration: 570.5836
+slow_duration: 433.45166
+timestamp_raw: 2275.7334
+last_hits: 186
+obs_wards_placed: 0
+networth: 17727
+
+
+02:19:45.436 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 5
+attacker_name: 4
+damage_source_name: 12
+value: 31
+timestamp: 2084.3452
+stun_duration: 342.26648
+slow_duration: 259.5816
+timestamp_raw: 2275.7334
+last_hits: 27
+obs_wards_placed: 10
+networth: 9407
+
+
+02:19:45.879 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 3
+attacker_name: 3
+damage_source_name: 14
+value: 4
+timestamp: 2084.3452
+stun_duration: 459.91855
+slow_duration: 425.49872
+timestamp_raw: 2275.7334
+last_hits: 106
+obs_wards_placed: 0
+networth: 13522
+
+
+02:19:53.423 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_TEAM_BUILDING_KILL (17): type: DOTA_COMBATLOG_TEAM_BUILDING_KILL
+target_name: 305
+value: 3
+timestamp: 2084.78
+attacker_team: 2
+target_team: 3
+
+
+02:19:57.412 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 0
+target_source_name: 3
+attacker_name: 3
+damage_source_name: 14
+value: 4
+timestamp: 2084.8135
+stun_duration: 459.8352
+slow_duration: 425.3918
+timestamp_raw: 2276.2002
+last_hits: 106
+obs_wards_placed: 0
+networth: 13523
+
+
+02:19:58.998 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 1
+target_source_name: 15
+attacker_name: 1
+damage_source_name: 13
+value: 7
+timestamp: 2084.8135
+stun_duration: 499.55774
+slow_duration: 428.51425
+timestamp_raw: 2276.2002
+last_hits: 68
+obs_wards_placed: 0
+networth: 15530
+
+
+02:19:59.544 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 2
+target_source_name: 5
+attacker_name: 1
+damage_source_name: 8
+value: 6
+timestamp: 2084.8135
+stun_duration: 572.0176
+slow_duration: 441.7444
+timestamp_raw: 2276.2002
+last_hits: 186
+obs_wards_placed: 0
+networth: 17776
+
+
+02:20:00.339 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 3
+target_source_name: 5
+attacker_name: 4
+damage_source_name: 12
+value: 31
+timestamp: 2084.8135
+stun_duration: 344.82007
+slow_duration: 267.91797
+timestamp_raw: 2276.2002
+last_hits: 27
+obs_wards_placed: 10
+networth: 9489
+
+
+02:20:01.161 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 4
+target_source_name: 5
+attacker_name: 6
+damage_source_name: 11
+value: 28
+timestamp: 2084.8135
+stun_duration: 447.28107
+slow_duration: 390.14368
+timestamp_raw: 2276.2002
+last_hits: 95
+obs_wards_placed: 0
+networth: 12613
+
+
+02:20:01.905 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 5
+target_source_name: 0
+attacker_name: 7
+damage_source_name: 7
+value: 5
+timestamp: 2084.8135
+stun_duration: 228.90361
+slow_duration: 237.0799
+timestamp_raw: 2276.2002
+last_hits: 71
+obs_wards_placed: 0
+networth: 5831
+
+
+02:20:02.346 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 6
+target_source_name: 3
+attacker_name: 5
+damage_source_name: 5
+value: 27
+timestamp: 2084.8135
+stun_duration: 206.01646
+slow_duration: 257.7781
+timestamp_raw: 2276.2002
+last_hits: 13
+obs_wards_placed: 1
+networth: 5099
+
+
+02:20:02.790 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 7
+target_source_name: 4
+attacker_name: 10
+damage_source_name: 3
+value: 1
+timestamp: 2084.8135
+stun_duration: 346.78366
+slow_duration: 319.55087
+timestamp_raw: 2276.2002
+last_hits: 110
+obs_wards_placed: 0
+networth: 9148
+
+
+02:20:03.250 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 8
+target_source_name: 1
+attacker_name: 10
+damage_source_name: 8
+value: 9
+timestamp: 2084.8135
+stun_duration: 208.46292
+slow_duration: 216.60701
+timestamp_raw: 2276.2002
+last_hits: 13
+obs_wards_placed: 5
+networth: 3937
+
+
+02:20:03.883 [main] INFO  java.lang.Package -
+DOTA_COMBATLOG_PLAYERSTATS (14): type: DOTA_COMBATLOG_PLAYERSTATS
+target_name: 9
+target_source_name: 5
+attacker_name: 1
+damage_source_name: 3
+value: 29
+timestamp: 2084.8135
+stun_duration: 306.86798
+slow_duration: 349.8417
+timestamp_raw: 2276.2002
+last_hits: 88
+obs_wards_placed: 0
+networth: 9612
+
+
+02:20:03.883 [main] INFO  java.lang.Package - [00:34:44.813] game state is now 6
+02:20:03.889 [main] INFO  java.lang.Package - [00:35:08.828] game state is now 7
+02:20:03.913 [main] INFO  java.lang.Package - total time taken: 902.515s

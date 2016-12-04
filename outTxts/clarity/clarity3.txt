@@ -1,0 +1,126 @@
+playback_time: 2261.7334
+playback_ticks: 67852
+playback_frames: 33925
+game_info {
+  dota {
+    match_id: 2696382703
+    game_mode: 1
+    game_winner: 2
+    player_info {
+      hero_name: "npc_dota_hero_kunkka"
+      player_name: "zwzw sapountzaki"
+      is_fake_client: false
+      steamid: 76561198080882437
+      game_team: 2
+    }
+    player_info {
+      hero_name: "npc_dota_hero_necrolyte"
+      player_name: "PVJ"
+      is_fake_client: false
+      steamid: 76561198062009431
+      game_team: 2
+    }
+    player_info {
+      hero_name: "npc_dota_hero_medusa"
+      player_name: "Inspector Morse"
+      is_fake_client: false
+      steamid: 76561198061936404
+      game_team: 2
+    }
+    player_info {
+      hero_name: "npc_dota_hero_zuus"
+      player_name: "Papa Legba"
+      is_fake_client: false
+      steamid: 76561198061381151
+      game_team: 2
+    }
+    player_info {
+      hero_name: "npc_dota_hero_shredder"
+      player_name: "Digressions"
+      is_fake_client: false
+      steamid: 76561198105163042
+      game_team: 2
+    }
+    player_info {
+      hero_name: "npc_dota_hero_drow_ranger"
+      player_name: "Lankarra"
+      is_fake_client: false
+      steamid: 76561198092478975
+      game_team: 3
+    }
+    player_info {
+      hero_name: "npc_dota_hero_skywrath_mage"
+      player_name: "\354\212\254\352\270\260"
+      is_fake_client: false
+      steamid: 76561198038296302
+      game_team: 3
+    }
+    player_info {
+      hero_name: "npc_dota_hero_morphling"
+      player_name: "[A]live"
+      is_fake_client: false
+      steamid: 76561198254865326
+      game_team: 3
+    }
+    player_info {
+      hero_name: "npc_dota_hero_vengefulspirit"
+      player_name: "D.Hayter"
+      is_fake_client: false
+      steamid: 76561198015340636
+      game_team: 3
+    }
+    player_info {
+      hero_name: "npc_dota_hero_invoker"
+      player_name: "Vessager"
+      is_fake_client: false
+      steamid: 76561198088295697
+      game_team: 3
+    }
+    leagueid: 0
+    end_time: 1475929858
+  }
+}
+
+15:47:02.436 [clarity-runner] DEBUG s.c.p.runner.ControllableRunner - runner started
+15:47:02.450 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - require processor skadistats.clarity.processor.runner.ControllableRunner
+15:47:02.456 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - require processor clarityAttempt.Attempt1
+15:47:02.508 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - require event listener interface skadistats.clarity.processor.reader.OnTickStart
+15:47:02.530 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.sendtables.S2DTClassEmitter
+15:47:02.543 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.reader.InputSourceProcessor
+15:47:02.554 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.gameevents.GameEvents
+15:47:02.557 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.modifiers.Modifiers
+15:47:02.561 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.stringtables.S1StringTableEmitter
+15:47:02.570 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.stringtables.StringTables
+15:47:02.572 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.entities.Entities
+15:47:02.585 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.sendtables.DTClasses
+15:47:02.585 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.tempentities.TempEntities
+15:47:02.588 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.sendtables.S1DTClassEmitter
+15:47:02.588 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.gameevents.CombatLog
+15:47:02.590 [clarity-runner] DEBUG skadistats.clarity.event.UsagePoints - provider found on ClassIndex: skadistats.clarity.processor.stringtables.S2StringTableEmitter
+15:47:02.590 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - require processor skadistats.clarity.processor.reader.InputSourceProcessor
+15:47:02.604 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - register initializer interface skadistats.clarity.processor.reader.OnMessageContainer
+15:47:02.604 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - register initializer interface skadistats.clarity.processor.reader.OnFullPacket
+15:47:02.604 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - require event listener interface skadistats.clarity.processor.runner.OnInputSource
+15:47:02.604 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - require event listener interface skadistats.clarity.processor.reader.OnMessageContainer
+15:47:02.604 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - require event listener interface skadistats.clarity.processor.reader.OnMessage
+15:47:02.604 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - register initializer interface skadistats.clarity.processor.reader.OnMessage
+15:47:02.605 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - register initializer interface skadistats.clarity.processor.reader.OnReset
+15:47:02.605 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - require event listener interface skadistats.clarity.processor.reader.OnTickEnd
+15:47:02.605 [clarity-runner] DEBUG s.c.processor.runner.ExecutionModel - require event listener interface skadistats.clarity.processor.reader.OnMessage
+15:47:02.611 [clarity-runner] DEBUG s.clarity.event.InitializerMethod - bind public void skadistats.clarity.processor.reader.InputSourceProcessor.initOnMessageListener(skadistats.clarity.processor.runner.Context,skadistats.clarity.event.EventListener) to context
+15:47:02.690 [clarity-runner] DEBUG s.clarity.event.EventListener - bind public void clarityAttempt.Attempt1.onTickStart(skadistats.clarity.processor.runner.Context,boolean) to context
+15:47:02.705 [clarity-runner] DEBUG s.clarity.event.EventListener - bind public void clarityAttempt.Attempt1.onMessage(skadistats.clarity.processor.runner.Context,com.google.protobuf.GeneratedMessage) to context
+15:47:02.706 [clarity-runner] DEBUG s.clarity.event.EventListener - bind public void skadistats.clarity.processor.reader.InputSourceProcessor.processServerInfo(skadistats.clarity.processor.runner.Context,skadistats.clarity.wire.common.proto.NetMessages$CSVCMsg_ServerInfo) to context
+15:47:02.706 [clarity-runner] DEBUG s.clarity.event.EventListener - bind public void skadistats.clarity.processor.reader.InputSourceProcessor.processEmbedded(skadistats.clarity.processor.runner.Context,java.lang.Class,com.google.protobuf.ByteString) throws java.io.IOException to context
+15:47:02.709 [clarity-runner] DEBUG s.clarity.event.EventListener - bind public void skadistats.clarity.processor.reader.InputSourceProcessor.processSource(skadistats.clarity.processor.runner.Context,skadistats.clarity.source.Source,skadistats.clarity.processor.runner.LoopController) throws java.io.IOException to context
+15:47:02.709 [clarity-runner] DEBUG s.clarity.event.InitializerMethod - bind public void skadistats.clarity.processor.reader.InputSourceProcessor.initOnResetListener(skadistats.clarity.processor.runner.Context,skadistats.clarity.event.EventListener) to context
+15:47:02.711 [clarity-runner] DEBUG s.clarity.event.InitializerMethod - bind public void skadistats.clarity.processor.reader.InputSourceProcessor.initOnFullPacketListener(skadistats.clarity.processor.runner.Context,skadistats.clarity.event.EventListener) to context
+15:47:02.712 [clarity-runner] DEBUG s.clarity.event.EventListener - bind public void clarityAttempt.Attempt1.onTickEnd(skadistats.clarity.processor.runner.Context,boolean) to context
+15:47:02.713 [clarity-runner] DEBUG s.clarity.event.InitializerMethod - bind public void skadistats.clarity.processor.reader.InputSourceProcessor.initOnMessageContainerListener(skadistats.clarity.processor.runner.Context,skadistats.clarity.event.EventListener) to context
+15:47:03.793 [clarity-runner] INFO  java.lang.Package - tick 30000, synthetic true, had 0 messages
+15:47:03.794 [clarity-runner] DEBUG s.c.p.runner.ControllableRunner - now at 30000. Took 1365818 microns.
+At 30000
+15:47:03.800 [clarity-runner] INFO  java.lang.Package - tick 0, synthetic true, had 0 messages
+15:47:03.800 [clarity-runner] DEBUG s.c.p.runner.ControllableRunner - now at 0. Took 5022 microns.
+At 0
+15:47:03.801 [clarity-runner] DEBUG s.c.p.runner.ControllableRunner - runner finished
