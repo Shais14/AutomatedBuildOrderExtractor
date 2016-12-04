@@ -29,7 +29,7 @@ public class Crawler {
         trainingMatchIds = new HashSet<>();
     }
 
-    private HashSet<String> readSeedFile(String filePath) {
+    public HashSet<String> readSeedFile(String filePath) {
         HashSet<String> matchIds = new HashSet<>();
         Path path = Paths.get(filePath);
         try(Scanner scanner = new Scanner(path, StandardCharsets.UTF_8.name())) {
@@ -43,7 +43,7 @@ public class Crawler {
         return matchIds;
     }
 
-    private MatchInfo getMatchInfo(String matchId) {
+    public MatchInfo getMatchInfo(String matchId) {
         DataRequester detailsRequester = new DataRequester();
         detailsRequester.setMethod("GetMatchDetails");
         detailsRequester.setMatchId(matchId);
@@ -103,7 +103,7 @@ public class Crawler {
                 }
 
                 if (dlReplay) {
-                    downloadReplay(matchInfo);
+//                    downloadReplay(matchInfo);
                     crawlFurther(matchInfo);
                     trainingMatchIds.add(matchId);
                 }
@@ -116,6 +116,7 @@ public class Crawler {
         try {
             PrintWriter writer = new PrintWriter(file, "UTF-8");
             for (String matchId: matchIds) {
+                System.out.println(matchId);
                 writer.println(matchId);
             }
             writer.close();
@@ -124,7 +125,7 @@ public class Crawler {
         }
     }
 
-    private void downloadReplay(MatchInfo matchInfo) {
+    public void downloadReplay(MatchInfo matchInfo) {
         ODotaDataRequester oDotaDataRequester = new ODotaDataRequester();
         oDotaDataRequester.setMethod("matches");
         oDotaDataRequester.setPathParams(matchInfo.getMatchId());
@@ -145,11 +146,13 @@ public class Crawler {
         writeMatchIds(matchIdFile, trainingMatchIds);
     }
 
-    public static void main(String[] args) {
-        if (args.length < 5) {
-            System.out.println("Error... Not enough arguments specified");
-            return;
-        }
+    public static void main(String[] args1) {
+//        if (args.length < 5) {
+//            System.out.println("Error... Not enough arguments specified");
+//            return;
+//        }
+
+        String[] args = {"C:\\Users\\Shais Shaikh\\Desktop\\AutomatedBuildOrderExtractor-master-20161204T101545Z\\AutomatedBuildOrderExtractor-master\\src\\seedFile.txt" , "3000","5","outFile.txt",""};
 
         Crawler crawler = new Crawler();
         crawler.seedFilePath = args[0];

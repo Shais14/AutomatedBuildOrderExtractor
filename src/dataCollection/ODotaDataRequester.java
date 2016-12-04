@@ -126,8 +126,9 @@ public class ODotaDataRequester {
 
     public void downloadReplay(String replayURL, String filePath) {
         try {
-            URLConnection urlConnection = new URL(replayURL).openConnection();
-            urlConnection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0");
+            URLConnection urlConnection =  new URL(replayURL).openConnection();
+            urlConnection.setRequestProperty("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36");
+            urlConnection.setRequestProperty("Cookie","__cfduid=d7b67e3c0867f07834bd487ce2caa967c1480835644; cf_clearance=7f78b5ad63c003d3056936f5733bb77160bc4509-1480835652-1800");
             InputStream inputStream = urlConnection.getInputStream();
 
             FileOutputStream fileOutputStream = new FileOutputStream(filePath);
