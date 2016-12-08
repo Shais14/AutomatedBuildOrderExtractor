@@ -152,9 +152,11 @@ public class Crawler {
 //            return;
 //        }
 
-        String[] args = {"/root/AutomatedBuildOrderExtractor/src/seedFile2.txt" , "3000","300","outFile.txt",""};
+        String dir = System.getProperty("user.dir");
 
-       Crawler crawler = new Crawler();
+        String[] args = { dir +"/src/seedFile2.txt" , "3000","5",dir + "/outFile.txt",""};
+
+        Crawler crawler = new Crawler();
         crawler.seedFilePath = args[0];
         crawler.thresholdMMR = Integer.parseInt(args[1]);
         crawler.dataSize = Integer.parseInt(args[2]);
