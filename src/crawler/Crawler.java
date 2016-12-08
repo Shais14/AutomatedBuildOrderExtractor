@@ -152,9 +152,9 @@ public class Crawler {
 //            return;
 //        }
 
-        String[] args = {"C:\\Users\\Shais Shaikh\\Desktop\\AutomatedBuildOrderExtractor-master-20161204T101545Z\\AutomatedBuildOrderExtractor-master\\src\\seedFile.txt" , "3000","5","outFile.txt",""};
+        String[] args = {"/root/AutomatedBuildOrderExtractor/src/seedFile2.txt" , "3000","300","outFile.txt",""};
 
-        Crawler crawler = new Crawler();
+       Crawler crawler = new Crawler();
         crawler.seedFilePath = args[0];
         crawler.thresholdMMR = Integer.parseInt(args[1]);
         crawler.dataSize = Integer.parseInt(args[2]);

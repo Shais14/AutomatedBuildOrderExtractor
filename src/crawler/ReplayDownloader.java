@@ -29,7 +29,7 @@ public class ReplayDownloader {
     public static void main(String[] args) {
 
         ReplayDownloader replayDownloader = new ReplayDownloader();
-        replayDownloader.outFilePath = "C:\\Users\\Shais Shaikh\\Desktop\\AutomatedBuildOrderExtractor-master-20161204T101545Z\\AutomatedBuildOrderExtractor-master\\outFile.txt";
+        replayDownloader.outFilePath = "/root/AutomatedBuildOrderExtractor/src/outFile.txt";
         Crawler crawler = new Crawler();
         replayDownloader.download(crawler);
 
