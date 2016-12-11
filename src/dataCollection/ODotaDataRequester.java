@@ -124,7 +124,7 @@ public class ODotaDataRequester {
         return paramsMap.get(key);
     }
 
-    public void downloadReplay(String replayURL, String filePath) {
+    public boolean downloadReplay(String replayURL, String filePath) {
         try {
             URLConnection urlConnection =  new URL(replayURL).openConnection();
             urlConnection.setRequestProperty("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36");
@@ -140,7 +140,7 @@ public class ODotaDataRequester {
             }
             System.out.println("Replay downloaded to - " + filePath);
 
-            return;
+            return true;
         } catch (MalformedURLException e) {
             e.printStackTrace();
         } catch (IOException e) {
@@ -148,9 +148,10 @@ public class ODotaDataRequester {
         }
 
         System.out.println("Unable to download the replay with link - " + replayURL + " to the path - " + filePath);
+        return false;
     }
 
-    public void downloadMatchInfoAndReplay(String matchInfoFilePath, String replayFilePath) throws JSONException {
+    public boolean downloadMatchInfoAndReplay(String matchInfoFilePath, String replayFilePath) throws JSONException {
         this.method = "matches";
         String matchInfo = requestData();
 
@@ -158,7 +159,7 @@ public class ODotaDataRequester {
 
         if (oDotaMatchInfo == null) {
             System.out.println("Unable to download match info");
-            return;
+            return false;
         }
 
         oDotaMatchInfo.writeToFile(matchInfoFilePath);
@@ -166,8 +167,9 @@ public class ODotaDataRequester {
         String replayURL = (String) oDotaMatchInfo.getObjectValue("replay_url");
         if (replayURL == null) {
             System.out.println("Replay URL not found. Skipping replay download...");
+            return false;
         } else {
-            downloadReplay(replayURL, replayFilePath);
+            return downloadReplay(replayURL, replayFilePath);
         }
     }
 

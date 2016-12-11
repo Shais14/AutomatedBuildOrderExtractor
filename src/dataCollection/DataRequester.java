@@ -82,7 +82,7 @@ public class DataRequester {
 
     public String requestData() {
         String url = getURL();
-        System.out.println(url);
+//        System.out.println(url);
         try {
             InputStream response = new URL(url).openStream();
             Scanner sc = new Scanner(response);

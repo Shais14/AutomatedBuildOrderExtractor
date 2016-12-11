@@ -72,7 +72,9 @@ public class Crawler {
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < playerNum; j++) {
                 // TODO: This path is a bit circuitous (maybe make matchIds store MatchInfo instead?)
-                matchIds.offer(playersMatches[j][i].getMatchId());
+                if (playersMatches[j][i] != null) {
+                    matchIds.offer(playersMatches[j][i].getMatchId());
+                }
             }
         }
     }
@@ -106,6 +108,7 @@ public class Crawler {
 //                    downloadReplay(matchInfo);
                     crawlFurther(matchInfo);
                     trainingMatchIds.add(matchId);
+                    System.out.println("----- Matches crawled - " + trainingMatchIds.size());
                 }
             }
         }
@@ -125,17 +128,20 @@ public class Crawler {
         }
     }
 
-    public void downloadReplay(MatchInfo matchInfo) {
+    public boolean downloadReplay(MatchInfo matchInfo) {
         ODotaDataRequester oDotaDataRequester = new ODotaDataRequester();
         oDotaDataRequester.setMethod("matches");
         oDotaDataRequester.setPathParams(matchInfo.getMatchId());
 
+        boolean returnVal = false;
         try {
-            oDotaDataRequester.downloadMatchInfoAndReplay("matchInfos" + File.separator + matchInfo.getMatchId() + ".txt",
+            returnVal = oDotaDataRequester.downloadMatchInfoAndReplay("matchInfos" + File.separator + matchInfo.getMatchId() + ".txt",
                     "replays" + File.separator + matchInfo.getMatchId() + ".dem.bz2");
         } catch (JSONException e) {
             e.printStackTrace();
         }
+
+        return returnVal;
     }
 
     private void crawl() {
@@ -154,7 +160,7 @@ public class Crawler {
 
         String dir = System.getProperty("user.dir");
 
-        String[] args = { dir +"/src/seedFile2.txt" , "3000","5",dir + "/outFile.txt",""};
+        String[] args = { dir + File.separator + "src" + File.separator + "seedFile2.txt" , "3000", "500", dir + File.separator + "outFile.txt", ""};
 
         Crawler crawler = new Crawler();
         crawler.seedFilePath = args[0];

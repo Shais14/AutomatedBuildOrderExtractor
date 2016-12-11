@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AutomatedBuildOrderExtractor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/attempt12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/attempt1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

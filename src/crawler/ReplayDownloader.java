@@ -1,5 +1,6 @@
 package crawler;
 
+import java.io.File;
 import java.util.HashSet;
 
 
@@ -17,9 +18,14 @@ public class ReplayDownloader {
 
         MatchIds = crawler.readSeedFile(outFilePath);
         System.out.println(MatchIds.size());
+        int count = 0;
         for(String id: MatchIds){
             MatchInfo matchInfo = crawler.getMatchInfo(id);
-            crawler.downloadReplay(matchInfo);
+            if (crawler.downloadReplay(matchInfo)) {
+                count++;
+                System.out.println("Replays downloaded - " + count);
+            }
+            System.out.println("---------");
         }
 
 
@@ -33,7 +39,7 @@ public class ReplayDownloader {
         System.out.println("asd");
 
         ReplayDownloader replayDownloader = new ReplayDownloader();
-        replayDownloader.outFilePath = dir + "/outFile.txt";
+        replayDownloader.outFilePath = dir + File.separator + "outFile.txt";
         System.out.println(replayDownloader.outFilePath);
         Crawler crawler = new Crawler();
         replayDownloader.download(crawler);
