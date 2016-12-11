@@ -70,8 +70,10 @@ public class ODotaDataRequester {
         } catch (IOException e) {
             if (httpsURLConnection != null) {
                 InputStream errorInputStream = httpsURLConnection.getErrorStream();
-                Scanner sc = new Scanner(errorInputStream);
-                System.out.println(sc.useDelimiter("\\A").next());
+                if (errorInputStream != null) {
+                    Scanner sc = new Scanner(errorInputStream);
+                    System.out.println(sc.useDelimiter("\\A").next());
+                }
             }
             e.printStackTrace();
         }
