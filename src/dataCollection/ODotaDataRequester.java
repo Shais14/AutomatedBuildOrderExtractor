@@ -73,6 +73,8 @@ public class ODotaDataRequester {
                 if (errorInputStream != null) {
                     Scanner sc = new Scanner(errorInputStream);
                     System.out.println(sc.useDelimiter("\\A").next());
+                } else {
+                    System.out.println("Error input stream is null for match with URL - " + urlStr);
                 }
             }
             e.printStackTrace();
